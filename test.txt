@@ -1,0 +1,2328 @@
+
+0: 384x640 1 smoke, 56.2ms
+Speed: 2.6ms preprocess, 56.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.283997952938079], "box": [{"x1": 492.1814270019531, "y1": 0.0, "x2": 640.0, "y2": 360.0}]}
+Time to process 1 frame: 1563 milliseconds
+
+0: 384x640 (no detections), 42.3ms
+Speed: 2.1ms preprocess, 42.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 48 milliseconds
+
+0: 384x640 (no detections), 36.5ms
+Speed: 1.0ms preprocess, 36.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 38.5ms
+Speed: 1.6ms preprocess, 38.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 (no detections), 37.6ms
+Speed: 1.0ms preprocess, 37.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 37.1ms
+Speed: 0.5ms preprocess, 37.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.8684895038604731], "box": [{"x1": 498.5696105957031, "y1": 0.0, "x2": 640.0, "y2": 360.0}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 34.4ms
+Speed: 0.6ms preprocess, 34.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.5879280567169191], "box": [{"x1": 470.55377197265625, "y1": 0.0, "x2": 639.9435424804688, "y2": 360.0}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 36.5ms
+Speed: 0.5ms preprocess, 36.5ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7141230106353761], "box": [{"x1": 480.8351745605469, "y1": 0.0, "x2": 640.0, "y2": 360.0}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 39.2ms
+Speed: 0.5ms preprocess, 39.2ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7599323987960811], "box": [{"x1": 480.537841796875, "y1": 0.0, "x2": 639.7659912109375, "y2": 360.0}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 1 smoke, 35.0ms
+Speed: 0.5ms preprocess, 35.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7561287879943841], "box": [{"x1": 479.9567565917969, "y1": 0.0, "x2": 640.0, "y2": 360.0}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 39.1ms
+Speed: 0.5ms preprocess, 39.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.647859394550323], "box": [{"x1": 484.5246887207031, "y1": 0.0, "x2": 639.737060546875, "y2": 360.0}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6163949370384211], "box": [{"x1": 487.55291748046875, "y1": 0.0, "x2": 639.7598266601562, "y2": 360.0}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 35.5ms
+Speed: 0.5ms preprocess, 35.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6979186534881591], "box": [{"x1": 483.84295654296875, "y1": 0.0, "x2": 640.0, "y2": 360.0}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 34.4ms
+Speed: 0.6ms preprocess, 34.4ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.664792001247406], "box": [{"x1": 480.663818359375, "y1": 0.0, "x2": 640.0, "y2": 360.0}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 34.6ms
+Speed: 1.0ms preprocess, 34.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.5954848527908321], "box": [{"x1": 482.52093505859375, "y1": 0.0, "x2": 640.0, "y2": 360.0}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 33.4ms
+Speed: 0.5ms preprocess, 33.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.699863970279693], "box": [{"x1": 485.6575927734375, "y1": 0.0, "x2": 640.0, "y2": 360.0}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6664773821830751], "box": [{"x1": 486.7279052734375, "y1": 0.0, "x2": 639.6822509765625, "y2": 360.0}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 38.5ms
+Speed: 0.5ms preprocess, 38.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6839607357978821], "box": [{"x1": 482.3626708984375, "y1": 0.0, "x2": 639.6888427734375, "y2": 360.0}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 36.4ms
+Speed: 1.0ms preprocess, 36.4ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7243795394897461], "box": [{"x1": 485.25653076171875, "y1": 0.0, "x2": 639.7111206054688, "y2": 360.0}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 33.0ms
+Speed: 0.5ms preprocess, 33.0ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.690004587173461], "box": [{"x1": 484.2816467285156, "y1": 0.0, "x2": 639.7218017578125, "y2": 360.0}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 39.6ms
+Speed: 1.0ms preprocess, 39.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.688173294067382], "box": [{"x1": 487.02862548828125, "y1": 0.0, "x2": 639.7328491210938, "y2": 360.0}]}
+Time to process 1 frame: 46 milliseconds
+
+0: 384x640 1 smoke, 38.2ms
+Speed: 0.5ms preprocess, 38.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.704481363296508], "box": [{"x1": 488.3742980957031, "y1": 0.0, "x2": 639.753173828125, "y2": 360.0}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 35.6ms
+Speed: 0.5ms preprocess, 35.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.645516157150268], "box": [{"x1": 483.6195983886719, "y1": 0.0, "x2": 639.69384765625, "y2": 360.0}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 35.7ms
+Speed: 0.5ms preprocess, 35.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.642039597034454], "box": [{"x1": 485.4957275390625, "y1": 0.0, "x2": 640.0, "y2": 360.0}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 38.5ms
+Speed: 0.5ms preprocess, 38.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.48522013425827004], "box": [{"x1": 490.37890625, "y1": 0.0, "x2": 639.9176025390625, "y2": 358.6848449707031}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 38.0ms
+Speed: 0.5ms preprocess, 38.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.49604803323745705], "box": [{"x1": 492.39752197265625, "y1": 0.0, "x2": 640.0, "y2": 360.0}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.5328267812728881], "box": [{"x1": 493.4412841796875, "y1": 0.0, "x2": 639.9482421875, "y2": 357.6155090332031}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.35331916809082003], "box": [{"x1": 496.400634765625, "y1": 0.0, "x2": 639.9776611328125, "y2": 358.0318603515625}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 34.5ms
+Speed: 0.5ms preprocess, 34.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.335847288370132], "box": [{"x1": 498.49542236328125, "y1": 0.868896484375, "x2": 640.0, "y2": 360.0}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 34.4ms
+Speed: 1.0ms preprocess, 34.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.613221764564514], "box": [{"x1": 498.48773193359375, "y1": 1.145355224609375, "x2": 640.0, "y2": 360.0}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 37.0ms
+Speed: 0.5ms preprocess, 37.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 35.0ms
+Speed: 0.6ms preprocess, 35.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 (no detections), 32.8ms
+Speed: 1.0ms preprocess, 32.8ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 34 milliseconds
+
+0: 384x640 (no detections), 34.8ms
+Speed: 0.5ms preprocess, 34.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 1 fire, 37.1ms
+Speed: 0.5ms preprocess, 37.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.264713466167449], "box": [{"x1": 222.5382080078125, "y1": 96.26026916503906, "x2": 303.0546875, "y2": 150.08729553222656}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 (no detections), 35.0ms
+Speed: 0.5ms preprocess, 35.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 (no detections), 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 (no detections), 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 38.4ms
+Speed: 0.5ms preprocess, 38.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.27002435922622603], "box": [{"x1": 513.4786376953125, "y1": 0.0, "x2": 640.0, "y2": 337.63427734375}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 (no detections), 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 (no detections), 35.5ms
+Speed: 0.5ms preprocess, 35.5ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 36 milliseconds
+
+0: 384x640 (no detections), 35.6ms
+Speed: 0.5ms preprocess, 35.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 33.9ms
+Speed: 0.5ms preprocess, 33.9ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 1 smoke, 37.0ms
+Speed: 0.5ms preprocess, 37.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.32459923624992304], "box": [{"x1": 517.4110107421875, "y1": 0.0, "x2": 640.0, "y2": 351.88006591796875}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 (no detections), 35.0ms
+Speed: 0.5ms preprocess, 35.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 (no detections), 32.6ms
+Speed: 0.5ms preprocess, 32.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 34 milliseconds
+
+0: 384x640 (no detections), 36.6ms
+Speed: 0.5ms preprocess, 36.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 32.5ms
+Speed: 0.5ms preprocess, 32.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 (no detections), 33.1ms
+Speed: 0.5ms preprocess, 33.1ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 (no detections), 37.5ms
+Speed: 1.0ms preprocess, 37.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 36.4ms
+Speed: 0.5ms preprocess, 36.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 35.8ms
+Speed: 0.5ms preprocess, 35.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 34.3ms
+Speed: 0.5ms preprocess, 34.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 36 milliseconds
+
+0: 384x640 (no detections), 32.8ms
+Speed: 0.5ms preprocess, 32.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 34 milliseconds
+
+0: 384x640 (no detections), 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 1 smoke, 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.38480064272880504], "box": [{"x1": 497.2309875488281, "y1": 0.0, "x2": 640.0, "y2": 350.13970947265625}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 (no detections), 32.5ms
+Speed: 0.6ms preprocess, 32.5ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 34 milliseconds
+
+0: 384x640 1 smoke, 36.1ms
+Speed: 0.5ms preprocess, 36.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.36363679170608504], "box": [{"x1": 500.9394836425781, "y1": 0.0, "x2": 640.0, "y2": 352.19921875}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 38.4ms
+Speed: 0.5ms preprocess, 38.4ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.376851260662078], "box": [{"x1": 502.7882080078125, "y1": 0.0, "x2": 640.0, "y2": 352.33111572265625}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 33.4ms
+Speed: 0.5ms preprocess, 33.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.340010970830917], "box": [{"x1": 495.28558349609375, "y1": 0.0, "x2": 640.0, "y2": 350.59674072265625}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 36.1ms
+Speed: 1.0ms preprocess, 36.1ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.28479459881782504], "box": [{"x1": 496.77532958984375, "y1": 0.0, "x2": 640.0, "y2": 350.226806640625}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 35.6ms
+Speed: 0.5ms preprocess, 35.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.29274433851242004], "box": [{"x1": 492.29388427734375, "y1": 0.0, "x2": 640.0, "y2": 351.9233093261719}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 (no detections), 37.8ms
+Speed: 0.5ms preprocess, 37.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 37.1ms
+Speed: 0.5ms preprocess, 37.1ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 32.4ms
+Speed: 1.0ms preprocess, 32.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 34 milliseconds
+
+0: 384x640 (no detections), 37.6ms
+Speed: 0.5ms preprocess, 37.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 36.4ms
+Speed: 0.5ms preprocess, 36.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 32.8ms
+Speed: 0.5ms preprocess, 32.8ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 34 milliseconds
+
+0: 384x640 (no detections), 35.8ms
+Speed: 0.5ms preprocess, 35.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 35.9ms
+Speed: 1.0ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 31.4ms
+Speed: 0.5ms preprocess, 31.4ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 33 milliseconds
+
+0: 384x640 (no detections), 37.0ms
+Speed: 0.5ms preprocess, 37.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 33.3ms
+Speed: 0.5ms preprocess, 33.3ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 (no detections), 35.7ms
+Speed: 0.5ms preprocess, 35.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 33.4ms
+Speed: 0.5ms preprocess, 33.4ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 (no detections), 37.0ms
+Speed: 0.5ms preprocess, 37.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 31.8ms
+Speed: 0.5ms preprocess, 31.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 34 milliseconds
+
+0: 384x640 (no detections), 32.3ms
+Speed: 1.0ms preprocess, 32.3ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 34 milliseconds
+
+0: 384x640 (no detections), 33.3ms
+Speed: 0.5ms preprocess, 33.3ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 34 milliseconds
+
+0: 384x640 (no detections), 32.9ms
+Speed: 1.0ms preprocess, 32.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 (no detections), 36.4ms
+Speed: 1.0ms preprocess, 36.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 36.4ms
+Speed: 1.0ms preprocess, 36.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 32.8ms
+Speed: 0.5ms preprocess, 32.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 (no detections), 32.4ms
+Speed: 1.0ms preprocess, 32.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 34 milliseconds
+
+0: 384x640 (no detections), 34.1ms
+Speed: 1.0ms preprocess, 34.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 36 milliseconds
+
+0: 384x640 (no detections), 34.1ms
+Speed: 0.5ms preprocess, 34.1ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 (no detections), 38.2ms
+Speed: 0.5ms preprocess, 38.2ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 32.1ms
+Speed: 0.5ms preprocess, 32.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 34 milliseconds
+
+0: 384x640 (no detections), 34.6ms
+Speed: 0.6ms preprocess, 34.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 (no detections), 34.0ms
+Speed: 1.0ms preprocess, 34.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 36 milliseconds
+
+0: 384x640 (no detections), 37.5ms
+Speed: 0.5ms preprocess, 37.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 36.5ms
+Speed: 0.5ms preprocess, 36.5ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 38.4ms
+Speed: 0.5ms preprocess, 38.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.44492843747138905], "box": [{"x1": 213.76246643066406, "y1": 2.64739990234375, "x2": 478.35107421875, "y2": 237.3817138671875}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.37410768866539], "box": [{"x1": 215.21109008789062, "y1": 4.456321716308594, "x2": 478.5617370605469, "y2": 247.13577270507812}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 35.5ms
+Speed: 0.5ms preprocess, 35.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.5308932065963741], "box": [{"x1": 209.77084350585938, "y1": 5.04754638671875, "x2": 478.8578796386719, "y2": 247.83074951171875}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 39.1ms
+Speed: 0.5ms preprocess, 39.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.560270905494689], "box": [{"x1": 205.26441955566406, "y1": 5.561378479003906, "x2": 479.415283203125, "y2": 249.93923950195312}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 1 smoke, 33.4ms
+Speed: 0.5ms preprocess, 33.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.5694037079811091], "box": [{"x1": 203.9387664794922, "y1": 5.877815246582031, "x2": 477.83197021484375, "y2": 260.0426025390625}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 33.4ms
+Speed: 0.6ms preprocess, 33.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.531069099903106], "box": [{"x1": 203.08489990234375, "y1": 6.668548583984375, "x2": 478.23590087890625, "y2": 266.5743408203125}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 35.0ms
+Speed: 1.0ms preprocess, 35.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.710518538951873], "box": [{"x1": 199.4788818359375, "y1": 1.891510009765625, "x2": 476.2022705078125, "y2": 276.1471252441406}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 34.5ms
+Speed: 0.5ms preprocess, 34.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7598694562911981], "box": [{"x1": 199.38421630859375, "y1": 0.0, "x2": 477.97027587890625, "y2": 279.5703125}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 33.9ms
+Speed: 0.5ms preprocess, 33.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7791112065315241], "box": [{"x1": 194.7965087890625, "y1": 0.0, "x2": 475.75811767578125, "y2": 281.267578125}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 32.3ms
+Speed: 1.0ms preprocess, 32.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.821765184402465], "box": [{"x1": 197.86724853515625, "y1": 0.0, "x2": 474.42755126953125, "y2": 283.77099609375}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.8415029644966121], "box": [{"x1": 193.33447265625, "y1": 0.0, "x2": 472.82196044921875, "y2": 283.26898193359375}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 32.4ms
+Speed: 1.0ms preprocess, 32.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.8538464903831481], "box": [{"x1": 191.802734375, "y1": 0.0, "x2": 470.63067626953125, "y2": 284.720947265625}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.8429967164993281], "box": [{"x1": 190.5780029296875, "y1": 0.0, "x2": 465.952880859375, "y2": 280.9743957519531}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 34.9ms
+Speed: 0.5ms preprocess, 34.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.865902066230773], "box": [{"x1": 191.35589599609375, "y1": 0.0, "x2": 466.2296142578125, "y2": 282.97698974609375}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.8568476438522331], "box": [{"x1": 188.607421875, "y1": 0.98773193359375, "x2": 465.173095703125, "y2": 282.07537841796875}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 35.0ms
+Speed: 0.5ms preprocess, 35.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.8509383201599121], "box": [{"x1": 188.72950744628906, "y1": 0.0, "x2": 466.23046875, "y2": 282.13848876953125}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 35.0ms
+Speed: 1.0ms preprocess, 35.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.850862026214599], "box": [{"x1": 187.54010009765625, "y1": 0.0, "x2": 465.63665771484375, "y2": 283.1525573730469}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 36.5ms
+Speed: 0.5ms preprocess, 36.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.847824931144714], "box": [{"x1": 184.64552307128906, "y1": 0.0, "x2": 465.4393310546875, "y2": 283.9244689941406}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 34.5ms
+Speed: 0.5ms preprocess, 34.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.847741544246673], "box": [{"x1": 183.3927459716797, "y1": 0.0, "x2": 461.28924560546875, "y2": 282.387939453125}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 2 smokes, 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke", "smoke"], "conf": [0.845311045646667, 0.25553789734840304], "box": [{"x1": 184.6213836669922, "y1": 0.0, "x2": 460.84649658203125, "y2": 280.7628479003906}, {"x1": 537.311767578125, "y1": 0.0, "x2": 640.0, "y2": 344.40472412109375}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 2 smokes, 33.4ms
+Speed: 0.5ms preprocess, 33.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke", "smoke"], "conf": [0.847447395324707, 0.31893837451934803], "box": [{"x1": 183.7615509033203, "y1": 0.0, "x2": 455.60040283203125, "y2": 281.09979248046875}, {"x1": 536.5045776367188, "y1": 0.0, "x2": 640.0, "y2": 345.66802978515625}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 2 smokes, 37.0ms
+Speed: 0.5ms preprocess, 37.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke", "smoke"], "conf": [0.8347651958465571, 0.32152390480041504], "box": [{"x1": 179.59661865234375, "y1": 0.0, "x2": 451.92041015625, "y2": 280.8946533203125}, {"x1": 536.013916015625, "y1": 3.519287109375, "x2": 639.9373779296875, "y2": 351.483642578125}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 2 smokes, 35.5ms
+Speed: 0.5ms preprocess, 35.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke", "smoke"], "conf": [0.796543478965759, 0.339033663272857], "box": [{"x1": 177.47662353515625, "y1": 0.0, "x2": 451.0440673828125, "y2": 279.8871765136719}, {"x1": 535.164794921875, "y1": 3.967498779296875, "x2": 639.9366455078125, "y2": 351.8315124511719}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 2 smokes, 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke", "smoke"], "conf": [0.797085464000701, 0.36088725924491805], "box": [{"x1": 173.02191162109375, "y1": 0.0, "x2": 448.6451416015625, "y2": 279.1746826171875}, {"x1": 534.4841918945312, "y1": 4.64593505859375, "x2": 639.9328002929688, "y2": 352.4544677734375}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 37.9ms
+Speed: 0.5ms preprocess, 37.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7603483200073241], "box": [{"x1": 176.20916748046875, "y1": 1.0838623046875, "x2": 447.8458251953125, "y2": 279.75323486328125}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 33.8ms
+Speed: 0.5ms preprocess, 33.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.746548414230346], "box": [{"x1": 168.2156982421875, "y1": 0.35479736328125, "x2": 446.7183837890625, "y2": 278.807861328125}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6786894798278801], "box": [{"x1": 173.16494750976562, "y1": 2.4952392578125, "x2": 446.0946350097656, "y2": 278.60272216796875}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 35.4ms
+Speed: 0.6ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.45623427629470803], "box": [{"x1": 161.54026794433594, "y1": 4.6171875, "x2": 444.7294921875, "y2": 278.581787109375}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 34.8ms
+Speed: 1.0ms preprocess, 34.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.342283546924591], "box": [{"x1": 153.74093627929688, "y1": 3.562225341796875, "x2": 441.5246276855469, "y2": 277.5366516113281}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 37.5ms
+Speed: 0.5ms preprocess, 37.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 37.0ms
+Speed: 0.5ms preprocess, 37.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.425944536924362], "box": [{"x1": 145.74545288085938, "y1": 5.41937255859375, "x2": 440.0704040527344, "y2": 276.77117919921875}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 36.3ms
+Speed: 1.0ms preprocess, 36.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.36647599935531605], "box": [{"x1": 160.3007354736328, "y1": 9.269683837890625, "x2": 439.01116943359375, "y2": 276.1775817871094}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 33.9ms
+Speed: 0.5ms preprocess, 33.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.475718766450881], "box": [{"x1": 145.8015899658203, "y1": 4.775848388671875, "x2": 438.00323486328125, "y2": 275.447021484375}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 39.5ms
+Speed: 1.0ms preprocess, 39.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.35636487603187506], "box": [{"x1": 168.11453247070312, "y1": 21.554595947265625, "x2": 438.4823303222656, "y2": 276.9232177734375}]}
+Time to process 1 frame: 46 milliseconds
+
+0: 384x640 1 smoke, 38.0ms
+Speed: 0.5ms preprocess, 38.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.501953303813934], "box": [{"x1": 170.7862548828125, "y1": 17.200225830078125, "x2": 437.40313720703125, "y2": 277.5865783691406}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 38.1ms
+Speed: 0.5ms preprocess, 38.1ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.516481935977935], "box": [{"x1": 175.681396484375, "y1": 31.502532958984375, "x2": 439.10723876953125, "y2": 278.45196533203125}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 34.3ms
+Speed: 0.5ms preprocess, 34.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6267933249473571], "box": [{"x1": 176.45489501953125, "y1": 17.203857421875, "x2": 437.64422607421875, "y2": 279.859375}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 37.0ms
+Speed: 0.5ms preprocess, 37.0ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.5218121409416191], "box": [{"x1": 176.7021484375, "y1": 24.224220275878906, "x2": 439.63629150390625, "y2": 279.2731628417969}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 35.5ms
+Speed: 1.0ms preprocess, 35.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.44215938448905906], "box": [{"x1": 176.15435791015625, "y1": 29.897613525390625, "x2": 440.76336669921875, "y2": 279.63623046875}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 38.9ms
+Speed: 0.5ms preprocess, 38.9ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.580477595329284], "box": [{"x1": 172.7040557861328, "y1": 43.11504364013672, "x2": 442.37384033203125, "y2": 281.1964111328125}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 1 smoke, 36.8ms
+Speed: 1.0ms preprocess, 36.8ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.725401878356933], "box": [{"x1": 167.74960327148438, "y1": 8.0394287109375, "x2": 441.2143249511719, "y2": 278.351318359375}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 38.0ms
+Speed: 0.5ms preprocess, 38.0ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7231261730194091], "box": [{"x1": 174.92361450195312, "y1": 10.841217041015625, "x2": 441.4654235839844, "y2": 275.44964599609375}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.801474213600158], "box": [{"x1": 169.47946166992188, "y1": 4.690704345703125, "x2": 442.9124450683594, "y2": 276.28997802734375}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 34.0ms
+Speed: 0.5ms preprocess, 34.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.782281458377838], "box": [{"x1": 176.69677734375, "y1": 6.999908447265625, "x2": 438.603759765625, "y2": 273.3122863769531}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 34.4ms
+Speed: 1.0ms preprocess, 34.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7642782330513], "box": [{"x1": 175.09991455078125, "y1": 6.062347412109375, "x2": 438.452392578125, "y2": 275.3092041015625}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 33.9ms
+Speed: 0.5ms preprocess, 33.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.759676337242126], "box": [{"x1": 186.9949188232422, "y1": 11.968841552734375, "x2": 430.58551025390625, "y2": 277.69830322265625}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 39.1ms
+Speed: 0.5ms preprocess, 39.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7998803853988641], "box": [{"x1": 177.27200317382812, "y1": 10.26007080078125, "x2": 440.9851379394531, "y2": 279.11993408203125}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 1 smoke, 38.5ms
+Speed: 0.5ms preprocess, 38.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.8211821317672731], "box": [{"x1": 173.99432373046875, "y1": 8.64599609375, "x2": 435.29022216796875, "y2": 276.413330078125}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 1 smoke, 34.5ms
+Speed: 0.5ms preprocess, 34.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.8121647834777831], "box": [{"x1": 181.2069549560547, "y1": 9.0244140625, "x2": 444.27496337890625, "y2": 276.659912109375}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 39.6ms
+Speed: 0.5ms preprocess, 39.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.8168403506278991], "box": [{"x1": 182.00196838378906, "y1": 9.415252685546875, "x2": 442.7044677734375, "y2": 274.9267578125}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 1 smoke, 48.8ms
+Speed: 0.5ms preprocess, 48.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.773082256317138], "box": [{"x1": 177.8897705078125, "y1": 9.07373046875, "x2": 446.0250244140625, "y2": 275.997802734375}]}
+Time to process 1 frame: 54 milliseconds
+
+0: 384x640 1 smoke, 38.0ms
+Speed: 1.0ms preprocess, 38.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7552022337913511], "box": [{"x1": 184.30023193359375, "y1": 10.66253662109375, "x2": 448.36981201171875, "y2": 277.60418701171875}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 39.2ms
+Speed: 0.5ms preprocess, 39.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7392470240592951], "box": [{"x1": 177.51425170898438, "y1": 10.36395263671875, "x2": 448.6614685058594, "y2": 275.2593994140625}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.750198423862457], "box": [{"x1": 189.80467224121094, "y1": 12.6431884765625, "x2": 450.427490234375, "y2": 275.90777587890625}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 37.4ms
+Speed: 0.5ms preprocess, 37.4ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.750845491886138], "box": [{"x1": 188.046630859375, "y1": 9.874053955078125, "x2": 449.7705078125, "y2": 277.79742431640625}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.767535924911499], "box": [{"x1": 192.272705078125, "y1": 10.443206787109375, "x2": 451.98785400390625, "y2": 277.03521728515625}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 33.4ms
+Speed: 0.5ms preprocess, 33.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.760399997234344], "box": [{"x1": 193.41012573242188, "y1": 11.837615966796875, "x2": 450.8538513183594, "y2": 277.17767333984375}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 33.0ms
+Speed: 0.5ms preprocess, 33.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.779708981513977], "box": [{"x1": 197.94158935546875, "y1": 14.52001953125, "x2": 454.580078125, "y2": 277.599365234375}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 35.4ms
+Speed: 1.0ms preprocess, 35.4ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.766062915325164], "box": [{"x1": 199.14767456054688, "y1": 11.568572998046875, "x2": 456.2273254394531, "y2": 278.32000732421875}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 35.0ms
+Speed: 0.5ms preprocess, 35.0ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7765398025512691], "box": [{"x1": 199.6804962158203, "y1": 10.568023681640625, "x2": 462.23480224609375, "y2": 276.45184326171875}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 35.3ms
+Speed: 0.5ms preprocess, 35.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7847124934196471], "box": [{"x1": 200.1326904296875, "y1": 8.6993408203125, "x2": 463.15618896484375, "y2": 276.4117431640625}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.768021166324615], "box": [{"x1": 197.8414306640625, "y1": 7.78594970703125, "x2": 467.22833251953125, "y2": 277.13983154296875}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 39.0ms
+Speed: 0.5ms preprocess, 39.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.728062689304351], "box": [{"x1": 195.6580047607422, "y1": 6.193572998046875, "x2": 467.62457275390625, "y2": 278.4573059082031}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 1 smoke, 34.3ms
+Speed: 0.5ms preprocess, 34.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7668820619583131], "box": [{"x1": 200.54669189453125, "y1": 4.5548095703125, "x2": 465.577880859375, "y2": 265.68572998046875}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 39.0ms
+Speed: 1.0ms preprocess, 39.0ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.736028373241424], "box": [{"x1": 195.5635528564453, "y1": 3.01092529296875, "x2": 468.26983642578125, "y2": 264.88458251953125}]}
+Time to process 1 frame: 46 milliseconds
+
+0: 384x640 1 smoke, 35.8ms
+Speed: 0.5ms preprocess, 35.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6937653422355651], "box": [{"x1": 191.79986572265625, "y1": 3.57403564453125, "x2": 467.3314208984375, "y2": 266.9411926269531}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.678088128566741], "box": [{"x1": 194.20477294921875, "y1": 3.137176513671875, "x2": 465.56121826171875, "y2": 266.35418701171875}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 36.6ms
+Speed: 0.5ms preprocess, 36.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.706300556659698], "box": [{"x1": 197.152099609375, "y1": 3.52203369140625, "x2": 465.07244873046875, "y2": 269.32080078125}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 36.4ms
+Speed: 0.5ms preprocess, 36.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.740527868270874], "box": [{"x1": 194.04563903808594, "y1": 3.4644775390625, "x2": 467.2740478515625, "y2": 268.09942626953125}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 33.8ms
+Speed: 0.5ms preprocess, 33.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.732274174690246], "box": [{"x1": 197.9122314453125, "y1": 3.671478271484375, "x2": 468.77520751953125, "y2": 265.77130126953125}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 33.8ms
+Speed: 1.0ms preprocess, 33.8ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.576076567173004], "box": [{"x1": 194.03518676757812, "y1": 4.02386474609375, "x2": 466.2515563964844, "y2": 269.13800048828125}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 36.9ms
+Speed: 1.0ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.539028942584991], "box": [{"x1": 197.32855224609375, "y1": 4.855316162109375, "x2": 464.64093017578125, "y2": 268.29931640625}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 33.9ms
+Speed: 1.1ms preprocess, 33.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.49132165312767], "box": [{"x1": 198.83200073242188, "y1": 4.22698974609375, "x2": 462.6625061035156, "y2": 264.4359130859375}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.49089941382408103], "box": [{"x1": 197.61337280273438, "y1": 3.3641357421875, "x2": 462.7772521972656, "y2": 261.24017333984375}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 34.5ms
+Speed: 0.5ms preprocess, 34.5ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6319699883460991], "box": [{"x1": 195.8179931640625, "y1": 2.8135986328125, "x2": 465.384521484375, "y2": 259.8659362792969}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 36.0ms
+Speed: 0.6ms preprocess, 36.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.655175328254699], "box": [{"x1": 193.770751953125, "y1": 2.635673522949218, "x2": 465.80126953125, "y2": 257.03173828125}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 33.4ms
+Speed: 0.5ms preprocess, 33.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6228868365287781], "box": [{"x1": 196.43026733398438, "y1": 2.604278564453125, "x2": 465.3254089355469, "y2": 249.02728271484375}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 34.4ms
+Speed: 0.6ms preprocess, 34.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.710920095443725], "box": [{"x1": 200.15057373046875, "y1": 1.4136962890625, "x2": 463.3756103515625, "y2": 259.02880859375}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 36.4ms
+Speed: 1.0ms preprocess, 36.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.680058300495147], "box": [{"x1": 208.36720275878906, "y1": 1.44036865234375, "x2": 463.0855712890625, "y2": 257.53863525390625}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 34.5ms
+Speed: 0.5ms preprocess, 34.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6702641844749451], "box": [{"x1": 200.45193481445312, "y1": 1.234222412109375, "x2": 464.4141540527344, "y2": 263.3871765136719}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 34.9ms
+Speed: 1.0ms preprocess, 34.9ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7197160720825191], "box": [{"x1": 205.12667846679688, "y1": 1.48919677734375, "x2": 466.2149353027344, "y2": 260.91937255859375}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.722000241279602], "box": [{"x1": 198.48316955566406, "y1": 0.9211120605468751, "x2": 464.9056396484375, "y2": 261.349365234375}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 34.5ms
+Speed: 0.5ms preprocess, 34.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.599265456199646], "box": [{"x1": 197.91806030273438, "y1": 0.9678039550781251, "x2": 466.6295471191406, "y2": 258.8716735839844}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 36.0ms
+Speed: 1.1ms preprocess, 36.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.58145934343338], "box": [{"x1": 198.06912231445312, "y1": 0.58819580078125, "x2": 465.7144470214844, "y2": 246.53823852539062}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 fire, 1 smoke, 37.0ms
+Speed: 1.0ms preprocess, 37.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke", "fire"], "conf": [0.654254019260406, 0.27236008644104004], "box": [{"x1": 194.43798828125, "y1": 0.0, "x2": 465.1383056640625, "y2": 244.90478515625}, {"x1": 347.48907470703125, "y1": 215.92010498046875, "x2": 394.36041259765625, "y2": 264.05633544921875}]}
+Time to process 1 frame: 130 milliseconds
+
+0: 384x640 1 fire, 1 smoke, 34.4ms
+Speed: 0.5ms preprocess, 34.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke", "fire"], "conf": [0.6878395676612851, 0.33380427956581105], "box": [{"x1": 197.759033203125, "y1": 0.251068115234375, "x2": 464.323974609375, "y2": 247.36795043945312}, {"x1": 347.60595703125, "y1": 218.7584228515625, "x2": 394.027587890625, "y2": 266.40423583984375}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7308388948440551], "box": [{"x1": 188.73312377929688, "y1": 0.45123291015625, "x2": 466.5679626464844, "y2": 257.3697814941406}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7338406443595881], "box": [{"x1": 185.06414794921875, "y1": 0.042724609375, "x2": 466.49267578125, "y2": 261.7297058105469}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 35.5ms
+Speed: 0.5ms preprocess, 35.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7284935712814331], "box": [{"x1": 188.21630859375, "y1": 0.20550537109375, "x2": 465.3017578125, "y2": 264.46502685546875}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 fire, 1 smoke, 31.9ms
+Speed: 0.5ms preprocess, 31.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke", "fire"], "conf": [0.67682147026062, 0.588930785655975], "box": [{"x1": 185.95907592773438, "y1": 0.0, "x2": 465.7132263183594, "y2": 269.65301513671875}, {"x1": 186.80148315429688, "y1": 0.323577880859375, "x2": 467.3566589355469, "y2": 268.6405334472656}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 fire, 1 smoke, 33.4ms
+Speed: 0.5ms preprocess, 33.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke", "fire"], "conf": [0.65673142671585, 0.573775112628936], "box": [{"x1": 189.40432739257812, "y1": 0.0, "x2": 466.3517761230469, "y2": 273.2644348144531}, {"x1": 190.968994140625, "y1": 0.7286376953125, "x2": 467.60211181640625, "y2": 270.1324462890625}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 fire, 1 smoke, 43.6ms
+Speed: 0.5ms preprocess, 43.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke", "fire"], "conf": [0.576132416725158, 0.47152760624885504], "box": [{"x1": 202.50753784179688, "y1": 0.0, "x2": 466.5403137207031, "y2": 264.9937744140625}, {"x1": 202.39743041992188, "y1": 0.27667236328125, "x2": 467.7344055175781, "y2": 266.401611328125}]}
+Time to process 1 frame: 50 milliseconds
+
+0: 384x640 1 fire, 40.7ms
+Speed: 0.5ms preprocess, 40.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.512347519397735], "box": [{"x1": 207.2054443359375, "y1": 0.664154052734375, "x2": 467.81121826171875, "y2": 270.9429626464844}]}
+Time to process 1 frame: 47 milliseconds
+
+0: 384x640 1 fire, 1 smoke, 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "smoke"], "conf": [0.5650587677955621, 0.39763483405113204], "box": [{"x1": 199.77960205078125, "y1": 0.0, "x2": 467.6771240234375, "y2": 265.1159973144531}, {"x1": 193.3584747314453, "y1": 0.0, "x2": 465.52764892578125, "y2": 254.2113037109375}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 fire, 1 smoke, 34.8ms
+Speed: 0.6ms preprocess, 34.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke", "fire"], "conf": [0.463590562343597, 0.42292135953903204], "box": [{"x1": 202.17230224609375, "y1": 0.0, "x2": 467.2674560546875, "y2": 258.5459289550781}, {"x1": 205.34426879882812, "y1": 0.0, "x2": 468.0644836425781, "y2": 263.4332275390625}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 34.4ms
+Speed: 1.0ms preprocess, 34.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.34197455644607505], "box": [{"x1": 190.5843048095703, "y1": 0.0, "x2": 469.15484619140625, "y2": 245.67129516601562}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 37.3ms
+Speed: 0.5ms preprocess, 37.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 33.8ms
+Speed: 0.5ms preprocess, 33.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 36 milliseconds
+
+0: 384x640 (no detections), 36.4ms
+Speed: 0.5ms preprocess, 36.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.47816732525825506], "box": [{"x1": 198.52044677734375, "y1": 0.0, "x2": 471.33685302734375, "y2": 246.435546875}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 35.5ms
+Speed: 0.5ms preprocess, 35.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.33964312076568604], "box": [{"x1": 207.52313232421875, "y1": 0.0, "x2": 471.9398193359375, "y2": 263.0166320800781}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 39.7ms
+Speed: 0.5ms preprocess, 39.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.33165308833122203], "box": [{"x1": 207.59735107421875, "y1": 0.0, "x2": 474.08294677734375, "y2": 259.4233703613281}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 1 smoke, 33.9ms
+Speed: 1.0ms preprocess, 33.9ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.35215255618095404], "box": [{"x1": 208.29180908203125, "y1": 0.0, "x2": 475.21343994140625, "y2": 256.4317932128906}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 32.4ms
+Speed: 1.0ms preprocess, 32.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.304795026779174], "box": [{"x1": 213.69525146484375, "y1": 0.0, "x2": 475.839599609375, "y2": 256.08160400390625}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 36.7ms
+Speed: 0.5ms preprocess, 36.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.48823991417884804], "box": [{"x1": 210.26446533203125, "y1": 0.0, "x2": 477.98187255859375, "y2": 268.4277038574219}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 34.9ms
+Speed: 0.5ms preprocess, 34.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.273483425378799], "box": [{"x1": 212.19522094726562, "y1": 0.0, "x2": 477.8652038574219, "y2": 272.4715270996094}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 34.9ms
+Speed: 0.5ms preprocess, 34.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 (no detections), 33.3ms
+Speed: 0.5ms preprocess, 33.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 34 milliseconds
+
+0: 384x640 1 fire, 37.9ms
+Speed: 0.5ms preprocess, 37.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.41157135367393405], "box": [{"x1": 220.26124572753906, "y1": 0.0, "x2": 479.7940673828125, "y2": 269.33599853515625}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 37.7ms
+Speed: 0.5ms preprocess, 37.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.30563274025917003], "box": [{"x1": 219.11642456054688, "y1": 0.0, "x2": 477.3974914550781, "y2": 265.5623779296875}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 (no detections), 36.6ms
+Speed: 0.5ms preprocess, 36.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 fire, 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.342895120382308], "box": [{"x1": 220.0899658203125, "y1": 0.0, "x2": 479.683837890625, "y2": 266.0908203125}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 (no detections), 32.8ms
+Speed: 1.0ms preprocess, 32.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 (no detections), 33.4ms
+Speed: 0.5ms preprocess, 33.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 (no detections), 37.9ms
+Speed: 0.5ms preprocess, 37.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 37.5ms
+Speed: 1.0ms preprocess, 37.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.504721343517303], "box": [{"x1": 219.7616424560547, "y1": 0.0, "x2": 479.54425048828125, "y2": 229.67172241210938}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 39.5ms
+Speed: 0.5ms preprocess, 39.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.49384939670562705], "box": [{"x1": 221.38983154296875, "y1": 0.0, "x2": 477.8804931640625, "y2": 228.8389129638672}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 1 smoke, 34.9ms
+Speed: 1.0ms preprocess, 34.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.47811457514762806], "box": [{"x1": 223.31732177734375, "y1": 0.0, "x2": 475.5089111328125, "y2": 231.3928680419922}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.428237318992614], "box": [{"x1": 219.37301635742188, "y1": 0.0, "x2": 481.0697937011719, "y2": 229.5894775390625}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 38.4ms
+Speed: 0.5ms preprocess, 38.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.47465026378631503], "box": [{"x1": 221.17701721191406, "y1": 0.0, "x2": 477.381103515625, "y2": 248.20462036132812}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 34.8ms
+Speed: 0.5ms preprocess, 34.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.48648259043693504], "box": [{"x1": 211.971923828125, "y1": 0.0, "x2": 479.69580078125, "y2": 241.02391052246094}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 33.4ms
+Speed: 0.5ms preprocess, 33.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.549410462379455], "box": [{"x1": 205.47723388671875, "y1": 0.0, "x2": 478.7911376953125, "y2": 249.39739990234375}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 32.9ms
+Speed: 1.0ms preprocess, 32.9ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.639224052429199], "box": [{"x1": 208.0795135498047, "y1": 0.0, "x2": 479.55718994140625, "y2": 253.36221313476562}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 31.9ms
+Speed: 0.6ms preprocess, 31.9ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6055415868759151], "box": [{"x1": 211.28160095214844, "y1": 0.0, "x2": 484.2293701171875, "y2": 263.67254638671875}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 31.4ms
+Speed: 1.0ms preprocess, 31.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6526139378547661], "box": [{"x1": 216.5047607421875, "y1": 0.0, "x2": 481.39984130859375, "y2": 255.69708251953125}]}
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 1 smoke, 36.4ms
+Speed: 0.5ms preprocess, 36.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.41104125976562506], "box": [{"x1": 216.77597045898438, "y1": 0.0, "x2": 480.7613220214844, "y2": 259.06207275390625}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 37.5ms
+Speed: 1.0ms preprocess, 37.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.41040590405464106], "box": [{"x1": 219.3387451171875, "y1": 0.0, "x2": 482.1962890625, "y2": 272.3653564453125}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 33.8ms
+Speed: 0.5ms preprocess, 33.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.49107682704925504], "box": [{"x1": 220.50791931152344, "y1": 0.0, "x2": 480.6693115234375, "y2": 266.2918701171875}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 34.4ms
+Speed: 1.0ms preprocess, 34.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.377401977777481], "box": [{"x1": 218.53724670410156, "y1": 0.0, "x2": 482.34814453125, "y2": 271.075927734375}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 36.5ms
+Speed: 0.5ms preprocess, 36.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.293084889650344], "box": [{"x1": 216.49386596679688, "y1": 0.0, "x2": 481.2331848144531, "y2": 265.42938232421875}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 (no detections), 36.1ms
+Speed: 0.5ms preprocess, 36.1ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 33.5ms
+Speed: 0.6ms preprocess, 33.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.38120374083518904], "box": [{"x1": 216.58047485351562, "y1": 0.0, "x2": 483.4823913574219, "y2": 279.08026123046875}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.48293411731719904], "box": [{"x1": 219.19732666015625, "y1": 0.0, "x2": 482.1180419921875, "y2": 273.9418640136719}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.5800345540046691], "box": [{"x1": 221.22996520996094, "y1": 0.0, "x2": 480.09423828125, "y2": 268.34661865234375}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 35.7ms
+Speed: 0.5ms preprocess, 35.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.377837777137756], "box": [{"x1": 220.87353515625, "y1": 0.0, "x2": 478.498779296875, "y2": 268.80169677734375}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 fire, 37.6ms
+Speed: 0.6ms preprocess, 37.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.449407160282135], "box": [{"x1": 220.89776611328125, "y1": 0.0, "x2": 477.23992919921875, "y2": 270.539306640625}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 fire, 34.4ms
+Speed: 0.5ms preprocess, 34.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.496455460786819], "box": [{"x1": 220.9943389892578, "y1": 0.0, "x2": 478.73504638671875, "y2": 268.4453125}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 39.5ms
+Speed: 1.0ms preprocess, 39.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.45684951543807906], "box": [{"x1": 220.9346923828125, "y1": 0.0, "x2": 476.762939453125, "y2": 266.37774658203125}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 1 smoke, 34.3ms
+Speed: 1.0ms preprocess, 34.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.2552430331707], "box": [{"x1": 218.760498046875, "y1": 0.0, "x2": 475.27557373046875, "y2": 265.456298828125}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 36.3ms
+Speed: 0.5ms preprocess, 36.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 37.9ms
+Speed: 1.0ms preprocess, 37.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 38.0ms
+Speed: 1.0ms preprocess, 38.0ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 (no detections), 33.9ms
+Speed: 0.5ms preprocess, 33.9ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 (no detections), 34.9ms
+Speed: 1.0ms preprocess, 34.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 36 milliseconds
+
+0: 384x640 (no detections), 33.8ms
+Speed: 0.5ms preprocess, 33.8ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 1 fire, 32.3ms
+Speed: 1.0ms preprocess, 32.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.250234454870224], "box": [{"x1": 222.7288818359375, "y1": 0.44625854492187506, "x2": 478.114013671875, "y2": 264.41278076171875}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 36.4ms
+Speed: 0.5ms preprocess, 36.4ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 36.2ms
+Speed: 1.0ms preprocess, 36.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 38.9ms
+Speed: 0.5ms preprocess, 38.9ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 34.0ms
+Speed: 0.5ms preprocess, 34.0ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 36 milliseconds
+
+0: 384x640 1 fire, 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.31375291943550104], "box": [{"x1": 217.8288116455078, "y1": 4.49078369140625, "x2": 469.59698486328125, "y2": 268.2347412109375}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 fire, 37.4ms
+Speed: 0.5ms preprocess, 37.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.36171144247055004], "box": [{"x1": 219.80545043945312, "y1": 3.8734130859375, "x2": 471.5193786621094, "y2": 266.81561279296875}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 fire, 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.39778476953506403], "box": [{"x1": 222.04067993164062, "y1": 3.577667236328125, "x2": 465.5632019042969, "y2": 265.88714599609375}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 fire, 38.1ms
+Speed: 0.5ms preprocess, 38.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.25141832232475203], "box": [{"x1": 219.87420654296875, "y1": 1.341522216796875, "x2": 468.06402587890625, "y2": 265.0726013183594}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 fire, 34.4ms
+Speed: 1.0ms preprocess, 34.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.30912557244300803], "box": [{"x1": 384.7825927734375, "y1": 153.18423461914062, "x2": 447.5870361328125, "y2": 205.57693481445312}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 36.0ms
+Speed: 1.0ms preprocess, 36.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 fire, 45.8ms
+Speed: 0.5ms preprocess, 45.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.29688814282417303], "box": [{"x1": 378.77130126953125, "y1": 124.24942016601562, "x2": 483.89569091796875, "y2": 238.62826538085938}]}
+Time to process 1 frame: 52 milliseconds
+
+0: 384x640 1 fire, 42.2ms
+Speed: 0.5ms preprocess, 42.2ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.33360624313354403], "box": [{"x1": 382.521240234375, "y1": 171.89236450195312, "x2": 439.8172607421875, "y2": 213.89056396484375}]}
+Time to process 1 frame: 48 milliseconds
+
+0: 384x640 1 fire, 36.5ms
+Speed: 0.5ms preprocess, 36.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.307688862085342], "box": [{"x1": 383.1110534667969, "y1": 168.5606689453125, "x2": 430.1653747558594, "y2": 211.53909301757812}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 fire, 32.4ms
+Speed: 1.0ms preprocess, 32.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.26069965958595204], "box": [{"x1": 377.64263916015625, "y1": 109.35342407226562, "x2": 482.80133056640625, "y2": 265.2888488769531}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 fire, 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.490525394678115], "box": [{"x1": 384.4100341796875, "y1": 165.79208374023438, "x2": 451.34326171875, "y2": 206.94915771484375}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 fire, 35.3ms
+Speed: 0.5ms preprocess, 35.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.376055270433425], "box": [{"x1": 70.36438751220703, "y1": 148.68948364257812, "x2": 265.82672119140625, "y2": 246.11495971679688}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 fire, 36.4ms
+Speed: 0.5ms preprocess, 36.4ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.522289097309112], "box": [{"x1": 79.5533447265625, "y1": 140.93017578125, "x2": 277.01177978515625, "y2": 242.63302612304688}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 3 fires, 36.5ms
+Speed: 0.5ms preprocess, 36.5ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.44616761803627003, 0.284542620182037, 0.27177819609642], "box": [{"x1": 78.78844451904297, "y1": 123.73849487304688, "x2": 284.7935791015625, "y2": 236.45791625976562}, {"x1": 384.2080078125, "y1": 146.04588317871094, "x2": 435.0736083984375, "y2": 200.8881378173828}, {"x1": 383.05889892578125, "y1": 82.16918182373047, "x2": 491.2735595703125, "y2": 241.918212890625}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 2 fires, 35.0ms
+Speed: 0.6ms preprocess, 35.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.7331553697586061, 0.29396393895149203], "box": [{"x1": 75.54351806640625, "y1": 134.60592651367188, "x2": 263.4067687988281, "y2": 225.44662475585938}, {"x1": 377.39190673828125, "y1": 79.20252227783203, "x2": 487.820068359375, "y2": 244.588623046875}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 3 fires, 37.5ms
+Speed: 0.5ms preprocess, 37.5ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.6829698085784911, 0.59259283542633, 0.377558648586273], "box": [{"x1": 81.23953247070312, "y1": 122.2047119140625, "x2": 265.9015197753906, "y2": 217.25344848632812}, {"x1": 374.0244140625, "y1": 69.20867919921875, "x2": 491.578857421875, "y2": 250.13818359375}, {"x1": 384.76678466796875, "y1": 67.69303894042969, "x2": 490.56707763671875, "y2": 197.46482849121094}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 fire, 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.667113363742828], "box": [{"x1": 81.85903930664062, "y1": 108.29180908203125, "x2": 278.23992919921875, "y2": 209.09307861328125}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 3 fires, 42.7ms
+Speed: 1.0ms preprocess, 42.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.6715955138206481, 0.592589914798736, 0.399091571569442], "box": [{"x1": 82.89440155029297, "y1": 97.310791015625, "x2": 268.55084228515625, "y2": 198.34487915039062}, {"x1": 422.87237548828125, "y1": 47.71213150024414, "x2": 493.49310302734375, "y2": 95.73501586914062}, {"x1": 385.41864013671875, "y1": 121.43881225585938, "x2": 437.49334716796875, "y2": 181.63357543945312}]}
+Time to process 1 frame: 49 milliseconds
+
+0: 384x640 3 fires, 36.9ms
+Speed: 1.0ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.7029560208320611, 0.674998223781585, 0.257773101329803], "box": [{"x1": 422.222412109375, "y1": 38.77367401123047, "x2": 498.0087890625, "y2": 90.02727508544922}, {"x1": 87.45986938476562, "y1": 93.93801879882812, "x2": 262.1546936035156, "y2": 188.90814208984375}, {"x1": 383.4296875, "y1": 106.75617980957031, "x2": 442.1890869140625, "y2": 177.9029998779297}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 3 fires, 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.545511901378631, 0.403758466243743, 0.314830183982849], "box": [{"x1": 422.93701171875, "y1": 28.039993286132812, "x2": 503.17529296875, "y2": 81.31747436523438}, {"x1": 360.00469970703125, "y1": 86.02915954589844, "x2": 484.469482421875, "y2": 228.83790588378906}, {"x1": 79.2565689086914, "y1": 82.23284912109375, "x2": 268.3722229003906, "y2": 182.0992431640625}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 2 fires, 37.0ms
+Speed: 1.0ms preprocess, 37.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.5783501267433161, 0.5535368919372551], "box": [{"x1": 359.9691467285156, "y1": 82.67401123046875, "x2": 481.2310485839844, "y2": 226.502197265625}, {"x1": 422.5958251953125, "y1": 20.838150024414062, "x2": 505.5333251953125, "y2": 74.00218200683594}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 2 fires, 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.48121073842048606, 0.39011791348457303], "box": [{"x1": 422.4490966796875, "y1": 10.688154220581055, "x2": 511.8485107421875, "y2": 68.12255859375}, {"x1": 368.5648193359375, "y1": 89.91148376464844, "x2": 485.41339111328125, "y2": 221.04652404785156}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 (no detections), 34.5ms
+Speed: 1.0ms preprocess, 34.5ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 36 milliseconds
+
+0: 384x640 (no detections), 35.6ms
+Speed: 1.0ms preprocess, 35.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 33.2ms
+Speed: 0.5ms preprocess, 33.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 (no detections), 36.6ms
+Speed: 0.5ms preprocess, 36.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 fire, 34.5ms
+Speed: 0.5ms preprocess, 34.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.385882049798965], "box": [{"x1": 379.66064453125, "y1": 31.797664642333984, "x2": 481.517822265625, "y2": 124.100830078125}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 37.5ms
+Speed: 0.5ms preprocess, 37.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.318290024995803], "box": [{"x1": 379.8182067871094, "y1": 20.354591369628906, "x2": 472.1271667480469, "y2": 112.99828338623047}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 (no detections), 33.5ms
+Speed: 0.5ms preprocess, 33.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 36 milliseconds
+
+0: 384x640 (no detections), 36.5ms
+Speed: 0.5ms preprocess, 36.5ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 37.1ms
+Speed: 0.5ms preprocess, 37.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 37.6ms
+Speed: 0.5ms preprocess, 37.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 36.4ms
+Speed: 0.5ms preprocess, 36.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 33.1ms
+Speed: 0.5ms preprocess, 33.1ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 (no detections), 36.7ms
+Speed: 0.5ms preprocess, 36.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 fire, 37.6ms
+Speed: 0.5ms preprocess, 37.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.32816034555435103], "box": [{"x1": 156.8431396484375, "y1": 13.187227249145508, "x2": 204.90606689453125, "y2": 72.95217895507812}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 (no detections), 33.6ms
+Speed: 0.5ms preprocess, 33.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 36 milliseconds
+
+0: 384x640 (no detections), 37.9ms
+Speed: 0.5ms preprocess, 37.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 37.0ms
+Speed: 1.0ms preprocess, 37.0ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.37141746282577504], "box": [{"x1": 390.8118896484375, "y1": 20.34237289428711, "x2": 493.68994140625, "y2": 84.2823486328125}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 (no detections), 34.4ms
+Speed: 1.0ms preprocess, 34.4ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 (no detections), 35.3ms
+Speed: 0.5ms preprocess, 35.3ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 (no detections), 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 1 fire, 36.6ms
+Speed: 1.0ms preprocess, 36.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.286978423595428], "box": [{"x1": 373.97686767578125, "y1": 32.34261703491211, "x2": 500.59405517578125, "y2": 158.77484130859375}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 2 fires, 36.6ms
+Speed: 0.5ms preprocess, 36.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.504788875579834, 0.257277160882949], "box": [{"x1": 373.92169189453125, "y1": 0.0, "x2": 514.2635498046875, "y2": 165.90802001953125}, {"x1": 399.00421142578125, "y1": 10.200485229492188, "x2": 508.80340576171875, "y2": 123.21086120605469}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 2 fires, 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.580950915813446, 0.39043825864791804], "box": [{"x1": 400.14727783203125, "y1": 1.409912109375, "x2": 508.2720947265625, "y2": 130.5601348876953}, {"x1": 384.23040771484375, "y1": 0.0, "x2": 513.6997680664062, "y2": 186.63522338867188}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 2 fires, 35.0ms
+Speed: 0.5ms preprocess, 35.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.5151103138923641, 0.45072466135025], "box": [{"x1": 400.37847900390625, "y1": 1.897872924804687, "x2": 510.86383056640625, "y2": 135.4448699951172}, {"x1": 376.96502685546875, "y1": 0.0, "x2": 514.9503784179688, "y2": 187.846435546875}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 3 fires, 34.4ms
+Speed: 1.0ms preprocess, 34.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.468848019838333, 0.412931591272354, 0.334658056497573], "box": [{"x1": 98.56573486328125, "y1": 65.98825073242188, "x2": 316.9656677246094, "y2": 161.555419921875}, {"x1": 399.15081787109375, "y1": 0.45787048339843706, "x2": 513.4666137695312, "y2": 139.1248321533203}, {"x1": 384.11187744140625, "y1": 0.0, "x2": 515.5479736328125, "y2": 190.8864288330078}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 2 fires, 34.9ms
+Speed: 0.5ms preprocess, 34.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.48160055279731706, 0.46361520886421204], "box": [{"x1": 97.4914779663086, "y1": 36.24391174316406, "x2": 310.4479675292969, "y2": 170.5299835205078}, {"x1": 392.83880615234375, "y1": 7.477630615234375, "x2": 512.8433227539062, "y2": 148.85894775390625}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 36.4ms
+Speed: 0.5ms preprocess, 36.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.6186174750328061], "box": [{"x1": 91.07272338867188, "y1": 30.37640380859375, "x2": 316.6770324707031, "y2": 179.03558349609375}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 fire, 39.5ms
+Speed: 0.5ms preprocess, 39.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.691111207008361], "box": [{"x1": 92.87893676757812, "y1": 37.70106506347656, "x2": 311.3818359375, "y2": 183.2052459716797}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 2 fires, 38.5ms
+Speed: 0.5ms preprocess, 38.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.697258710861206, 0.5491616129875181], "box": [{"x1": 395.14337158203125, "y1": 31.283584594726562, "x2": 510.45196533203125, "y2": 177.07699584960938}, {"x1": 99.34939575195312, "y1": 53.00848388671875, "x2": 304.2078857421875, "y2": 192.32681274414062}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 2 fires, 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.6170993447303771, 0.6098808646202081], "box": [{"x1": 397.44158935546875, "y1": 42.942626953125, "x2": 511.6402587890625, "y2": 181.13894653320312}, {"x1": 112.9104995727539, "y1": 52.32994079589844, "x2": 308.4056701660156, "y2": 195.3238067626953}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 2 fires, 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.7110659480094911, 0.6457856893539421], "box": [{"x1": 398.03338623046875, "y1": 48.62342071533203, "x2": 516.496826171875, "y2": 195.09130859375}, {"x1": 134.54837036132812, "y1": 65.5142822265625, "x2": 309.3811340332031, "y2": 202.5147705078125}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 fire, 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.7075317502021791], "box": [{"x1": 133.58978271484375, "y1": 69.3514633178711, "x2": 292.61944580078125, "y2": 210.92990112304688}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 fire, 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.6619626879692071], "box": [{"x1": 135.79470825195312, "y1": 83.35511016845703, "x2": 285.2900390625, "y2": 215.9052734375}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 38.0ms
+Speed: 0.5ms preprocess, 38.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.575298070907592], "box": [{"x1": 138.64627075195312, "y1": 121.9539794921875, "x2": 288.25469970703125, "y2": 226.8697509765625}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 2 fires, 33.4ms
+Speed: 0.5ms preprocess, 33.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.549226939678192, 0.5465183854103081], "box": [{"x1": 121.6951904296875, "y1": 105.05563354492188, "x2": 288.6361083984375, "y2": 235.21023559570312}, {"x1": 407.94647216796875, "y1": 108.31521606445312, "x2": 519.815673828125, "y2": 228.62167358398438}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 2 fires, 34.3ms
+Speed: 1.0ms preprocess, 34.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.606444597244262, 0.5344690680503841], "box": [{"x1": 132.40798950195312, "y1": 100.67555236816406, "x2": 290.8986511230469, "y2": 237.8131866455078}, {"x1": 408.22039794921875, "y1": 110.6642074584961, "x2": 519.1942749023438, "y2": 222.06906127929688}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 fire, 38.5ms
+Speed: 0.5ms preprocess, 38.5ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.46022194623947105], "box": [{"x1": 413.2988586425781, "y1": 151.5743408203125, "x2": 458.6703186035156, "y2": 212.8148193359375}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 fire, 33.0ms
+Speed: 0.6ms preprocess, 33.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.38634604215621904], "box": [{"x1": 414.81182861328125, "y1": 146.62384033203125, "x2": 464.52679443359375, "y2": 219.91201782226562}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 32.9ms
+Speed: 1.0ms preprocess, 32.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 36 milliseconds
+
+0: 384x640 2 fires, 36.2ms
+Speed: 0.5ms preprocess, 36.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.506239235401153, 0.266511559486389], "box": [{"x1": 417.21075439453125, "y1": 143.00416564941406, "x2": 474.06121826171875, "y2": 220.2569122314453}, {"x1": 119.65447998046875, "y1": 68.54680633544922, "x2": 321.7170104980469, "y2": 237.70147705078125}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 fire, 36.9ms
+Speed: 0.6ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.449871480464935], "box": [{"x1": 418.02716064453125, "y1": 138.5091552734375, "x2": 475.46307373046875, "y2": 218.27853393554688}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 fire, 33.5ms
+Speed: 1.0ms preprocess, 33.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.7144144177436821], "box": [{"x1": 418.86871337890625, "y1": 137.93801879882812, "x2": 479.7965087890625, "y2": 214.68814086914062}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 2 fires, 37.4ms
+Speed: 1.0ms preprocess, 37.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.643410146236419, 0.353633135557174], "box": [{"x1": 422.326171875, "y1": 137.5428466796875, "x2": 480.93536376953125, "y2": 214.4473876953125}, {"x1": 101.0235595703125, "y1": 113.89604187011719, "x2": 319.6196594238281, "y2": 241.16831970214844}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 fire, 35.4ms
+Speed: 1.0ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.673788428306579], "box": [{"x1": 421.2323303222656, "y1": 133.93553161621094, "x2": 484.3908386230469, "y2": 215.16856384277344}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 fire, 36.9ms
+Speed: 1.0ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.35713505744934004], "box": [{"x1": 420.30352783203125, "y1": 130.515625, "x2": 486.00360107421875, "y2": 215.38812255859375}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 (no detections), 38.0ms
+Speed: 0.5ms preprocess, 38.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 35.3ms
+Speed: 0.5ms preprocess, 35.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.311709284782409], "box": [{"x1": 150.66650390625, "y1": 136.21664428710938, "x2": 320.7037353515625, "y2": 243.11563110351562}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 3 fires, 34.5ms
+Speed: 1.0ms preprocess, 34.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.547540307044982, 0.45863547921180703, 0.25373750925064004], "box": [{"x1": 155.43972778320312, "y1": 129.07516479492188, "x2": 303.5965270996094, "y2": 244.09677124023438}, {"x1": 415.6981201171875, "y1": 84.19454956054688, "x2": 533.4259033203125, "y2": 219.80105590820312}, {"x1": 420.6553039550781, "y1": 163.37115478515625, "x2": 482.1388854980469, "y2": 217.70184326171875}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 32.9ms
+Speed: 0.5ms preprocess, 32.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 1 fire, 33.3ms
+Speed: 0.5ms preprocess, 33.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.413682132959365], "box": [{"x1": 152.6298828125, "y1": 127.366943359375, "x2": 302.3341979980469, "y2": 245.4097900390625}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 2 fires, 34.4ms
+Speed: 1.0ms preprocess, 34.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.531632542610168, 0.38043957948684604], "box": [{"x1": 429.7352294921875, "y1": 136.59530639648438, "x2": 495.90814208984375, "y2": 217.35409545898438}, {"x1": 154.16134643554688, "y1": 137.94149780273438, "x2": 297.9807434082031, "y2": 245.03512573242188}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 39.4ms
+Speed: 0.5ms preprocess, 39.4ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 (no detections), 35.4ms
+Speed: 1.0ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 1 fire, 34.9ms
+Speed: 0.5ms preprocess, 34.9ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.266977310180664], "box": [{"x1": 154.78274536132812, "y1": 127.64434814453125, "x2": 305.9764099121094, "y2": 245.88235473632812}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 35.0ms
+Speed: 0.5ms preprocess, 35.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.653754949569702], "box": [{"x1": 150.971923828125, "y1": 139.22320556640625, "x2": 304.73486328125, "y2": 245.0184326171875}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 34.9ms
+Speed: 1.0ms preprocess, 34.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.706916630268096], "box": [{"x1": 154.35055541992188, "y1": 134.35858154296875, "x2": 296.7552490234375, "y2": 243.7423095703125}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 38.5ms
+Speed: 1.0ms preprocess, 38.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.718688547611236], "box": [{"x1": 152.357421875, "y1": 135.85247802734375, "x2": 297.1745300292969, "y2": 241.98135375976562}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 1 fire, 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.7794588804244991], "box": [{"x1": 154.27685546875, "y1": 131.30624389648438, "x2": 298.9681396484375, "y2": 239.99142456054688}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 fire, 38.7ms
+Speed: 0.5ms preprocess, 38.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.6975412964820861], "box": [{"x1": 156.55596923828125, "y1": 131.30404663085938, "x2": 302.50537109375, "y2": 237.47299194335938}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 2 fires, 37.5ms
+Speed: 0.5ms preprocess, 37.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.58423376083374, 0.48569896817207303], "box": [{"x1": 450.2357177734375, "y1": 107.97212219238281, "x2": 526.329833984375, "y2": 158.2183074951172}, {"x1": 157.14935302734375, "y1": 125.46929931640625, "x2": 320.3912048339844, "y2": 240.15838623046875}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 2 fires, 38.5ms
+Speed: 0.5ms preprocess, 38.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.476207137107849, 0.27340584993362405], "box": [{"x1": 457.55035400390625, "y1": 103.22344970703125, "x2": 529.6870727539062, "y2": 153.36135864257812}, {"x1": 158.08770751953125, "y1": 128.05807495117188, "x2": 310.62994384765625, "y2": 239.17654418945312}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 2 fires, 39.6ms
+Speed: 0.5ms preprocess, 39.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.710004448890686, 0.30950522422790505], "box": [{"x1": 155.63265991210938, "y1": 126.60797119140625, "x2": 310.2666015625, "y2": 241.8074951171875}, {"x1": 439.06396484375, "y1": 101.48690795898438, "x2": 531.3270263671875, "y2": 210.70681762695312}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 2 fires, 37.2ms
+Speed: 0.5ms preprocess, 37.2ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.7054587006568901, 0.342479169368743], "box": [{"x1": 160.3743896484375, "y1": 123.5185546875, "x2": 315.393310546875, "y2": 240.87799072265625}, {"x1": 438.96551513671875, "y1": 98.83747863769531, "x2": 532.6082763671875, "y2": 208.6886444091797}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 fire, 34.1ms
+Speed: 0.5ms preprocess, 34.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.5849008560180661], "box": [{"x1": 160.41641235351562, "y1": 124.65750122070312, "x2": 315.5849304199219, "y2": 240.62045288085938}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 32.8ms
+Speed: 0.5ms preprocess, 32.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.48401013016700706], "box": [{"x1": 160.60317993164062, "y1": 121.19772338867188, "x2": 314.3122253417969, "y2": 239.81607055664062}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 2 fires, 33.9ms
+Speed: 0.5ms preprocess, 33.9ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.6963922381401061, 0.689330339431762], "box": [{"x1": 160.69528198242188, "y1": 127.62844848632812, "x2": 311.66864013671875, "y2": 238.14349365234375}, {"x1": 434.025146484375, "y1": 79.23344421386719, "x2": 533.4853515625, "y2": 215.59010314941406}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 3 fires, 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.7632641196250911, 0.541776061058044, 0.5158811807632441], "box": [{"x1": 433.60797119140625, "y1": 73.53629302978516, "x2": 535.5892944335938, "y2": 212.95285034179688}, {"x1": 466.90155029296875, "y1": 74.46879577636719, "x2": 535.6858520507812, "y2": 143.99154663085938}, {"x1": 162.37637329101562, "y1": 129.47509765625, "x2": 319.0799255371094, "y2": 239.86959838867188}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 3 fires, 37.0ms
+Speed: 0.5ms preprocess, 37.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.723743617534637, 0.56397259235382, 0.529180288314819], "box": [{"x1": 432.58660888671875, "y1": 62.23262023925781, "x2": 540.2673950195312, "y2": 213.67002868652344}, {"x1": 160.75259399414062, "y1": 135.94070434570312, "x2": 319.60028076171875, "y2": 240.512939453125}, {"x1": 465.0455322265625, "y1": 62.61607360839844, "x2": 538.7941284179688, "y2": 147.45901489257812}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 2 fires, 34.9ms
+Speed: 0.5ms preprocess, 34.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.8175855278968811, 0.5792692899703981], "box": [{"x1": 431.49462890625, "y1": 75.12081909179688, "x2": 548.7570190429688, "y2": 215.1591796875}, {"x1": 156.37380981445312, "y1": 117.15304565429688, "x2": 327.9732360839844, "y2": 242.06350708007812}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 2 fires, 35.3ms
+Speed: 0.5ms preprocess, 35.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.837179839611053, 0.48207685351371704], "box": [{"x1": 432.65826416015625, "y1": 72.7844467163086, "x2": 555.7761840820312, "y2": 210.53921508789062}, {"x1": 158.06396484375, "y1": 128.80526733398438, "x2": 325.3759460449219, "y2": 241.79251098632812}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 2 fires, 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.800165116786956, 0.499598830938339], "box": [{"x1": 430.83795166015625, "y1": 71.96678924560547, "x2": 558.5281372070312, "y2": 212.43878173828125}, {"x1": 148.02197265625, "y1": 130.79360961914062, "x2": 323.3701171875, "y2": 242.720458984375}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 2 fires, 36.6ms
+Speed: 0.5ms preprocess, 36.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.45951145887374806, 0.38876640796661305], "box": [{"x1": 428.9149169921875, "y1": 77.8519287109375, "x2": 561.370361328125, "y2": 213.70425415039062}, {"x1": 155.63186645507812, "y1": 124.1890869140625, "x2": 331.0110168457031, "y2": 246.49234008789062}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 2 fires, 34.1ms
+Speed: 0.5ms preprocess, 34.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.332144528627395, 0.278656959533691], "box": [{"x1": 169.26483154296875, "y1": 127.33575439453125, "x2": 306.88427734375, "y2": 245.8477783203125}, {"x1": 426.455322265625, "y1": 71.88243865966797, "x2": 563.3108520507812, "y2": 227.87005615234375}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 37.6ms
+Speed: 0.5ms preprocess, 37.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.41740202903747503], "box": [{"x1": 168.14456176757812, "y1": 126.2635498046875, "x2": 307.19921875, "y2": 248.99398803710938}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 fire, 38.6ms
+Speed: 0.5ms preprocess, 38.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.507964134216308], "box": [{"x1": 164.53802490234375, "y1": 125.33065795898438, "x2": 300.887939453125, "y2": 250.44842529296875}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 1 fire, 36.9ms
+Speed: 1.0ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.479910492897033], "box": [{"x1": 145.32614135742188, "y1": 134.18136596679688, "x2": 300.697265625, "y2": 254.37191772460938}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 fire, 34.4ms
+Speed: 0.5ms preprocess, 34.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.43069776892662004], "box": [{"x1": 121.11151123046875, "y1": 135.91787719726562, "x2": 303.2945556640625, "y2": 257.5859069824219}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 fire, 34.6ms
+Speed: 0.5ms preprocess, 34.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.27387997508049], "box": [{"x1": 129.14892578125, "y1": 133.88470458984375, "x2": 310.7117004394531, "y2": 259.1845397949219}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 36.8ms
+Speed: 0.5ms preprocess, 36.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 fire, 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.5640571713447571], "box": [{"x1": 137.03912353515625, "y1": 144.35977172851562, "x2": 286.3246154785156, "y2": 260.77093505859375}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 fire, 37.4ms
+Speed: 0.5ms preprocess, 37.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.40998023748397805], "box": [{"x1": 132.01025390625, "y1": 156.5428466796875, "x2": 273.7409362792969, "y2": 259.8951416015625}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 fire, 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.308010756969451], "box": [{"x1": 131.56414794921875, "y1": 150.95318603515625, "x2": 259.459228515625, "y2": 258.8427734375}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 34.9ms
+Speed: 0.5ms preprocess, 34.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.408245682716369], "box": [{"x1": 131.84609985351562, "y1": 151.2054443359375, "x2": 273.62445068359375, "y2": 260.8916015625}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.43249663710594105], "box": [{"x1": 130.13119506835938, "y1": 154.27828979492188, "x2": 262.8093566894531, "y2": 266.0635070800781}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 (no detections), 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 1 fire, 34.8ms
+Speed: 0.5ms preprocess, 34.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.516068041324615], "box": [{"x1": 88.04159545898438, "y1": 168.68032836914062, "x2": 259.41741943359375, "y2": 281.3320617675781}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 36.9ms
+Speed: 0.5ms preprocess, 36.9ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 fire, 34.8ms
+Speed: 0.5ms preprocess, 34.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.25102421641349704], "box": [{"x1": 434.66925048828125, "y1": 171.3521728515625, "x2": 519.2943115234375, "y2": 284.7904968261719}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 37.1ms
+Speed: 0.5ms preprocess, 37.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 33.9ms
+Speed: 0.5ms preprocess, 33.9ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 (no detections), 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 36 milliseconds
+
+0: 384x640 (no detections), 37.4ms
+Speed: 0.5ms preprocess, 37.4ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 34.0ms
+Speed: 0.6ms preprocess, 34.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.40508246421813904], "box": [{"x1": 19.69622802734375, "y1": 8.131256103515625, "x2": 435.71746826171875, "y2": 284.1706237792969}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 2 smokes, 37.0ms
+Speed: 0.5ms preprocess, 37.0ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke", "smoke"], "conf": [0.494779706001281, 0.34890392422676003], "box": [{"x1": 13.591949462890625, "y1": 7.374908447265625, "x2": 434.2778625488281, "y2": 286.1448669433594}, {"x1": 449.89666748046875, "y1": 32.24810791015625, "x2": 638.0365600585938, "y2": 294.597900390625}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 2 smokes, 37.1ms
+Speed: 1.0ms preprocess, 37.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke", "smoke"], "conf": [0.5543113946914671, 0.42100977897644004], "box": [{"x1": 13.423614501953125, "y1": 5.918121337890625, "x2": 403.7812805175781, "y2": 288.6502990722656}, {"x1": 447.8099365234375, "y1": 15.600616455078125, "x2": 640.0, "y2": 302.3134460449219}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 34.9ms
+Speed: 0.5ms preprocess, 34.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.30252125859260504], "box": [{"x1": 18.8494873046875, "y1": 4.221649169921875, "x2": 550.1395263671875, "y2": 290.0028076171875}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 38.5ms
+Speed: 0.5ms preprocess, 38.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.253242909908294], "box": [{"x1": 14.9715576171875, "y1": 0.0, "x2": 440.8756103515625, "y2": 284.62738037109375}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 36.1ms
+Speed: 0.5ms preprocess, 36.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.5797795653343201], "box": [{"x1": 24.965576171875, "y1": 0.0, "x2": 621.0045166015625, "y2": 293.63519287109375}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 33.1ms
+Speed: 0.5ms preprocess, 33.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.264997780323028], "box": [{"x1": 36.09808349609375, "y1": 0.0, "x2": 621.1973876953125, "y2": 285.21026611328125}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 34.0ms
+Speed: 0.5ms preprocess, 34.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.29936248064041104], "box": [{"x1": 223.52642822265625, "y1": 0.0, "x2": 603.9407958984375, "y2": 296.24261474609375}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 36.6ms
+Speed: 0.5ms preprocess, 36.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.28339481353759705], "box": [{"x1": 211.739990234375, "y1": 0.0, "x2": 596.340087890625, "y2": 289.12213134765625}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 33.0ms
+Speed: 1.1ms preprocess, 33.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.40673545002937306], "box": [{"x1": 196.10430908203125, "y1": 0.0, "x2": 599.3701171875, "y2": 298.99761962890625}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 33.5ms
+Speed: 1.0ms preprocess, 33.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.42453697323799106], "box": [{"x1": 171.22369384765625, "y1": 0.0, "x2": 574.4135131835938, "y2": 291.38330078125}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 33.4ms
+Speed: 0.5ms preprocess, 33.4ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6048207283020021], "box": [{"x1": 111.49383544921875, "y1": 0.0, "x2": 567.2168579101562, "y2": 289.3480224609375}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 34.5ms
+Speed: 0.5ms preprocess, 34.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6364426016807551], "box": [{"x1": 86.18414306640625, "y1": 1.7674560546875, "x2": 558.6267700195312, "y2": 287.20928955078125}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 34.4ms
+Speed: 0.5ms preprocess, 34.4ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6593798995018001], "box": [{"x1": 105.60321044921875, "y1": 3.7222900390625, "x2": 559.63623046875, "y2": 286.22479248046875}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 35.0ms
+Speed: 0.6ms preprocess, 35.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6787285208702081], "box": [{"x1": 27.7958984375, "y1": 2.073272705078125, "x2": 562.0752563476562, "y2": 285.5530700683594}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 37.0ms
+Speed: 0.5ms preprocess, 37.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6762173175811761], "box": [{"x1": 27.17822265625, "y1": 1.57244873046875, "x2": 567.8592529296875, "y2": 285.253173828125}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7065049409866331], "box": [{"x1": 26.70135498046875, "y1": 0.6468505859375, "x2": 565.197998046875, "y2": 286.1103515625}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 37.6ms
+Speed: 0.5ms preprocess, 37.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.727368474006652], "box": [{"x1": 36.09320068359375, "y1": 0.0, "x2": 559.5010375976562, "y2": 284.96728515625}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 34.4ms
+Speed: 0.5ms preprocess, 34.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.725973308086395], "box": [{"x1": 41.43168640136719, "y1": 0.0, "x2": 551.2197875976562, "y2": 286.8067932128906}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 32.4ms
+Speed: 1.0ms preprocess, 32.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7311185598373411], "box": [{"x1": 33.86431884765625, "y1": 0.0, "x2": 547.5272216796875, "y2": 290.01446533203125}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.716138839721679], "box": [{"x1": 35.6331787109375, "y1": 0.305908203125, "x2": 550.091796875, "y2": 291.78375244140625}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 33.1ms
+Speed: 0.5ms preprocess, 33.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.710120499134063], "box": [{"x1": 47.28900146484375, "y1": 2.159332275390625, "x2": 555.211181640625, "y2": 288.08636474609375}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 34.7ms
+Speed: 0.5ms preprocess, 34.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.7072976231575011], "box": [{"x1": 50.69873046875, "y1": 1.3118896484375, "x2": 565.6082763671875, "y2": 285.6875}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 31.9ms
+Speed: 0.5ms preprocess, 31.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.680222928524017], "box": [{"x1": 84.24674987792969, "y1": 1.698394775390625, "x2": 571.5057983398438, "y2": 285.3696594238281}]}
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 1 smoke, 33.1ms
+Speed: 0.6ms preprocess, 33.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.662682771682739], "box": [{"x1": 72.61854553222656, "y1": 1.663543701171875, "x2": 576.538330078125, "y2": 288.5216979980469}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 smoke, 37.4ms
+Speed: 0.5ms preprocess, 37.4ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.6503530740737911], "box": [{"x1": 95.627685546875, "y1": 1.497802734375, "x2": 568.865234375, "y2": 295.3729248046875}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.581746935844421], "box": [{"x1": 110.7899169921875, "y1": 1.45404052734375, "x2": 583.4996948242188, "y2": 300.38409423828125}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 34.5ms
+Speed: 1.0ms preprocess, 34.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.517555892467498], "box": [{"x1": 92.66131591796875, "y1": 0.92242431640625, "x2": 583.5386352539062, "y2": 299.5312805175781}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 37.4ms
+Speed: 0.5ms preprocess, 37.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.457605004310607], "box": [{"x1": 96.0809326171875, "y1": 0.91864013671875, "x2": 595.941650390625, "y2": 298.2491760253906}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 35.5ms
+Speed: 0.5ms preprocess, 35.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.48880264163017206], "box": [{"x1": 76.55381774902344, "y1": 1.015167236328125, "x2": 586.2586669921875, "y2": 298.7550048828125}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 35.1ms
+Speed: 0.5ms preprocess, 35.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.304858922958374], "box": [{"x1": 96.91526794433594, "y1": 1.877288818359375, "x2": 602.77392578125, "y2": 302.93463134765625}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 34.0ms
+Speed: 1.0ms preprocess, 34.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.396031886339187], "box": [{"x1": 76.451904296875, "y1": 1.462127685546875, "x2": 603.490478515625, "y2": 305.4403991699219}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 34.5ms
+Speed: 1.0ms preprocess, 34.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.525968015193939], "box": [{"x1": 141.57484436035156, "y1": 2.14373779296875, "x2": 597.0260009765625, "y2": 304.3794250488281}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 smoke, 35.7ms
+Speed: 0.5ms preprocess, 35.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.5885020494461061], "box": [{"x1": 111.76727294921875, "y1": 1.935150146484375, "x2": 592.5076904296875, "y2": 302.76849365234375}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 2 smokes, 35.9ms
+Speed: 0.6ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke", "smoke"], "conf": [0.45423188805580106, 0.261016845703125], "box": [{"x1": 93.20179748535156, "y1": 3.07293701171875, "x2": 577.5146484375, "y2": 301.33544921875}, {"x1": 102.83256530761719, "y1": 3.71551513671875, "x2": 418.05487060546875, "y2": 306.3902587890625}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 2 smokes, 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke", "smoke"], "conf": [0.41654872894287104, 0.26546987891197205], "box": [{"x1": 109.0546875, "y1": 5.963836669921875, "x2": 399.04638671875, "y2": 300.7613525390625}, {"x1": 113.50299072265625, "y1": 4.66058349609375, "x2": 569.7686767578125, "y2": 299.20599365234375}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 33.6ms
+Speed: 0.5ms preprocess, 33.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.41351357102394104], "box": [{"x1": 117.11578369140625, "y1": 5.10931396484375, "x2": 403.3140869140625, "y2": 291.76068115234375}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 smoke, 35.5ms
+Speed: 0.5ms preprocess, 35.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.368574291467666], "box": [{"x1": 136.31056213378906, "y1": 4.536224365234375, "x2": 400.028076171875, "y2": 295.0091247558594}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 38.1ms
+Speed: 0.5ms preprocess, 38.1ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.524890184402465], "box": [{"x1": 171.8404083251953, "y1": 4.28076171875, "x2": 398.68511962890625, "y2": 282.8159484863281}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 (no detections), 40.1ms
+Speed: 0.5ms preprocess, 40.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 smoke, 33.4ms
+Speed: 0.5ms preprocess, 33.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.297726154327392], "box": [{"x1": 128.90225219726562, "y1": 9.953948974609375, "x2": 399.9909973144531, "y2": 278.9707336425781}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 33.8ms
+Speed: 0.5ms preprocess, 33.8ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 (no detections), 33.9ms
+Speed: 0.5ms preprocess, 33.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 35 milliseconds
+
+0: 384x640 1 smoke, 39.1ms
+Speed: 0.5ms preprocess, 39.1ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.430896908044815], "box": [{"x1": 149.95396423339844, "y1": 9.795562744140625, "x2": 406.537109375, "y2": 270.6531677246094}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 (no detections), 32.9ms
+Speed: 1.0ms preprocess, 32.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 34 milliseconds
+
+0: 384x640 1 fire, 1 smoke, 32.4ms
+Speed: 0.5ms preprocess, 32.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "smoke"], "conf": [0.545201122760772, 0.29202848672866805], "box": [{"x1": 386.95928955078125, "y1": 237.86117553710938, "x2": 459.402099609375, "y2": 293.3042297363281}, {"x1": 150.63571166992188, "y1": 7.03717041015625, "x2": 414.5101623535156, "y2": 271.27752685546875}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 fire, 1 smoke, 36.1ms
+Speed: 0.5ms preprocess, 36.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "smoke"], "conf": [0.5862519145011901, 0.5483133792877191], "box": [{"x1": 385.53424072265625, "y1": 229.1678466796875, "x2": 461.38970947265625, "y2": 283.7547607421875}, {"x1": 139.49468994140625, "y1": 9.9368896484375, "x2": 411.4356689453125, "y2": 273.0201416015625}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 smoke, 37.1ms
+Speed: 1.0ms preprocess, 37.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.279916614294052], "box": [{"x1": 144.69061279296875, "y1": 8.197021484375, "x2": 414.49102783203125, "y2": 272.0843505859375}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 smoke, 36.6ms
+Speed: 0.5ms preprocess, 36.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.42516696453094405], "box": [{"x1": 147.73574829101562, "y1": 8.304229736328125, "x2": 415.6761169433594, "y2": 269.9179992675781}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 fire, 38.7ms
+Speed: 0.5ms preprocess, 38.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.43275886774063105], "box": [{"x1": 394.518798828125, "y1": 216.9591064453125, "x2": 478.5965576171875, "y2": 267.9010009765625}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 smoke, 37.6ms
+Speed: 0.5ms preprocess, 37.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["smoke"], "conf": [0.39357748627662603], "box": [{"x1": 155.8234100341797, "y1": 6.525177001953125, "x2": 424.82684326171875, "y2": 273.88494873046875}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 fire, 33.6ms
+Speed: 1.0ms preprocess, 33.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.254087448120117], "box": [{"x1": 396.21258544921875, "y1": 201.4842071533203, "x2": 485.5797119140625, "y2": 292.06646728515625}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 fire, 32.4ms
+Speed: 0.5ms preprocess, 32.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.513814866542816], "box": [{"x1": 399.4895935058594, "y1": 194.86447143554688, "x2": 483.9447326660156, "y2": 247.31228637695312}]}
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 1 fire, 35.0ms
+Speed: 1.0ms preprocess, 35.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.6546393036842341], "box": [{"x1": 398.877685546875, "y1": 186.45513916015625, "x2": 488.035888671875, "y2": 243.51007080078125}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 35.6ms
+Speed: 1.0ms preprocess, 35.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.638562679290771], "box": [{"x1": 400.8528747558594, "y1": 185.7664794921875, "x2": 489.4459533691406, "y2": 238.935546875}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 fire, 38.1ms
+Speed: 0.5ms preprocess, 38.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.690296351909637], "box": [{"x1": 399.92694091796875, "y1": 183.02261352539062, "x2": 502.86700439453125, "y2": 233.39395141601562}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 fire, 35.5ms
+Speed: 0.5ms preprocess, 35.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.6751796603202821], "box": [{"x1": 397.9779052734375, "y1": 179.65744018554688, "x2": 503.388671875, "y2": 231.88861083984375}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 fire, 33.0ms
+Speed: 0.5ms preprocess, 33.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.433171540498733], "box": [{"x1": 431.14984130859375, "y1": 175.74017333984375, "x2": 500.26202392578125, "y2": 226.7132568359375}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 (no detections), 37.6ms
+Speed: 0.5ms preprocess, 37.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 (no detections), 35.9ms
+Speed: 1.0ms preprocess, 35.9ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 37.1ms
+Speed: 0.5ms preprocess, 37.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 36.6ms
+Speed: 1.1ms preprocess, 36.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 fire, 32.7ms
+Speed: 0.5ms preprocess, 32.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.5981506109237671], "box": [{"x1": 43.2178955078125, "y1": 167.66177368164062, "x2": 209.9005584716797, "y2": 298.3838806152344}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 fire, 36.4ms
+Speed: 0.5ms preprocess, 36.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.65302574634552], "box": [{"x1": 42.490806579589844, "y1": 180.99127197265625, "x2": 236.98037719726562, "y2": 296.0226745605469}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 2 fires, 37.0ms
+Speed: 1.0ms preprocess, 37.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.7131774425506591, 0.337590754032135], "box": [{"x1": 42.051849365234375, "y1": 172.5919189453125, "x2": 239.63821411132812, "y2": 295.8864440917969}, {"x1": 396.7275695800781, "y1": 169.0988311767578, "x2": 471.4382629394531, "y2": 229.4356231689453}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 2 fires, 34.9ms
+Speed: 1.0ms preprocess, 34.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.47038429975509605, 0.301972895860672], "box": [{"x1": 42.392913818359375, "y1": 166.33584594726562, "x2": 251.841064453125, "y2": 292.7264099121094}, {"x1": 399.21893310546875, "y1": 162.793701171875, "x2": 471.16864013671875, "y2": 210.0654296875}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 2 fires, 33.9ms
+Speed: 1.0ms preprocess, 33.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.5780956149101251, 0.294850617647171], "box": [{"x1": 42.21440887451172, "y1": 159.38992309570312, "x2": 215.2757568359375, "y2": 289.10772705078125}, {"x1": 391.0559997558594, "y1": 156.3717041015625, "x2": 473.9861755371094, "y2": 215.48687744140625}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 2 fires, 34.0ms
+Speed: 0.5ms preprocess, 34.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.41391858458518904, 0.31552720069885204], "box": [{"x1": 390.9537353515625, "y1": 151.92349243164062, "x2": 474.7664794921875, "y2": 209.64035034179688}, {"x1": 142.98736572265625, "y1": 156.3912353515625, "x2": 247.33169555664062, "y2": 275.97796630859375}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 2 fires, 34.4ms
+Speed: 0.6ms preprocess, 34.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.666309595108032, 0.524311423301696], "box": [{"x1": 392.71600341796875, "y1": 144.06777954101562, "x2": 475.18487548828125, "y2": 204.05026245117188}, {"x1": 41.556915283203125, "y1": 143.16409301757812, "x2": 244.13882446289062, "y2": 284.4874572753906}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 2 fires, 37.4ms
+Speed: 0.5ms preprocess, 37.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.720880508422851, 0.476650595664978], "box": [{"x1": 42.250396728515625, "y1": 133.65280151367188, "x2": 240.1488037109375, "y2": 282.2025146484375}, {"x1": 391.0350341796875, "y1": 137.87765502929688, "x2": 476.484130859375, "y2": 208.70809936523438}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 3 fires, 37.6ms
+Speed: 0.5ms preprocess, 37.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.5898718237876891, 0.41153687238693204, 0.288252234458923], "box": [{"x1": 382.223388671875, "y1": 133.120361328125, "x2": 481.6497802734375, "y2": 253.5765380859375}, {"x1": 40.99150848388672, "y1": 110.67205810546875, "x2": 225.9034423828125, "y2": 278.39453125}, {"x1": 396.59112548828125, "y1": 132.85812377929688, "x2": 480.12884521484375, "y2": 196.26437377929688}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 3 fires, 33.7ms
+Speed: 1.0ms preprocess, 33.7ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.649927377700805, 0.309197038412094, 0.270673960447311], "box": [{"x1": 402.02740478515625, "y1": 127.80581665039062, "x2": 471.95562744140625, "y2": 194.21585083007812}, {"x1": 40.50799560546875, "y1": 142.39300537109375, "x2": 225.27740478515625, "y2": 281.7034912109375}, {"x1": 382.0375671386719, "y1": 127.17300415039062, "x2": 473.0855407714844, "y2": 245.02847290039062}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 2 fires, 35.4ms
+Speed: 0.5ms preprocess, 35.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.525107622146606, 0.400241553783416], "box": [{"x1": 380.8416442871094, "y1": 123.33804321289062, "x2": 475.2023010253906, "y2": 250.46484375}, {"x1": 407.56549072265625, "y1": 124.10140991210938, "x2": 475.33050537109375, "y2": 193.90826416015625}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 fire, 38.1ms
+Speed: 0.5ms preprocess, 38.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.7195587158203121], "box": [{"x1": 405.13037109375, "y1": 116.07919311523438, "x2": 479.1934814453125, "y2": 193.36178588867188}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 fire, 34.9ms
+Speed: 0.5ms preprocess, 34.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.7625318169593811], "box": [{"x1": 405.3275146484375, "y1": 113.01603698730469, "x2": 482.4005126953125, "y2": 187.1726531982422}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 3 fires, 41.1ms
+Speed: 0.5ms preprocess, 41.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.7901944518089291, 0.545123219490051, 0.47143611311912503], "box": [{"x1": 375.16717529296875, "y1": 110.03209686279297, "x2": 487.31939697265625, "y2": 254.6904296875}, {"x1": 43.173614501953125, "y1": 154.59686279296875, "x2": 237.99383544921875, "y2": 280.733154296875}, {"x1": 385.35845947265625, "y1": 110.13899230957031, "x2": 486.4344482421875, "y2": 193.5883026123047}]}
+Time to process 1 frame: 47 milliseconds
+
+0: 384x640 5 fires, 36.6ms
+Speed: 0.5ms preprocess, 36.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire", "fire", "fire"], "conf": [0.819543123245239, 0.6024067401885981, 0.39866816997528004, 0.39774128794670105, 0.30446314811706504], "box": [{"x1": 375.2684020996094, "y1": 103.11508178710938, "x2": 490.7513732910156, "y2": 252.0599365234375}, {"x1": 43.370704650878906, "y1": 150.49801635742188, "x2": 280.4402770996094, "y2": 277.25665283203125}, {"x1": 41.630828857421875, "y1": 152.74005126953125, "x2": 213.519287109375, "y2": 274.30633544921875}, {"x1": 379.70220947265625, "y1": 102.87379455566406, "x2": 490.14410400390625, "y2": 206.02561950683594}, {"x1": 137.93621826171875, "y1": 149.87142944335938, "x2": 281.080810546875, "y2": 270.3764953613281}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 3 fires, 33.0ms
+Speed: 0.5ms preprocess, 33.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.8053179383277891, 0.335249185562133, 0.33058226108551003], "box": [{"x1": 378.3627624511719, "y1": 101.505615234375, "x2": 492.2301940917969, "y2": 252.56134033203125}, {"x1": 42.29297637939453, "y1": 148.96194458007812, "x2": 276.56427001953125, "y2": 270.01019287109375}, {"x1": 40.98185729980469, "y1": 143.13528442382812, "x2": 212.81430053710938, "y2": 266.3041687011719}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 2 fires, 34.9ms
+Speed: 1.0ms preprocess, 34.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.7769341468811031, 0.693200826644897], "box": [{"x1": 375.847900390625, "y1": 106.83609008789062, "x2": 491.107666015625, "y2": 253.27542114257812}, {"x1": 42.4271240234375, "y1": 140.55093383789062, "x2": 206.93521118164062, "y2": 274.0121154785156}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 4 fires, 33.9ms
+Speed: 0.5ms preprocess, 33.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire", "fire"], "conf": [0.7287916541099541, 0.35820034146308904, 0.32735809683799705, 0.295298665761947], "box": [{"x1": 375.1781311035156, "y1": 103.07524871826172, "x2": 494.0699157714844, "y2": 255.23944091796875}, {"x1": 372.9783935546875, "y1": 133.9329833984375, "x2": 460.572265625, "y2": 255.34197998046875}, {"x1": 42.57759094238281, "y1": 135.01669311523438, "x2": 200.89105224609375, "y2": 263.8141784667969}, {"x1": 41.590576171875, "y1": 134.00765991210938, "x2": 279.4786376953125, "y2": 267.7197265625}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 3 fires, 34.9ms
+Speed: 0.5ms preprocess, 34.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.678493916988372, 0.40770378708839405, 0.342272698879241], "box": [{"x1": 372.0654296875, "y1": 135.00027465820312, "x2": 463.407470703125, "y2": 254.60104370117188}, {"x1": 41.38810729980469, "y1": 128.21319580078125, "x2": 201.90603637695312, "y2": 260.35894775390625}, {"x1": 40.74755859375, "y1": 128.45626831054688, "x2": 278.585205078125, "y2": 266.3001403808594}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 38.5ms
+Speed: 0.5ms preprocess, 38.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.7647190093994141], "box": [{"x1": 371.410888671875, "y1": 127.62033081054688, "x2": 467.85406494140625, "y2": 253.52899169921875}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 fire, 37.1ms
+Speed: 0.5ms preprocess, 37.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.48965919017791704], "box": [{"x1": 371.22772216796875, "y1": 123.74899291992188, "x2": 466.47821044921875, "y2": 255.9287109375}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 fire, 32.5ms
+Speed: 0.5ms preprocess, 32.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.40494245290756203], "box": [{"x1": 373.2608642578125, "y1": 165.2818603515625, "x2": 459.3741455078125, "y2": 249.32278442382812}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 1 fire, 33.0ms
+Speed: 0.5ms preprocess, 33.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.41581603884696905], "box": [{"x1": 372.199951171875, "y1": 156.73236083984375, "x2": 461.91436767578125, "y2": 247.10662841796875}]}
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 1 fire, 33.5ms
+Speed: 0.5ms preprocess, 33.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.36277264356613104], "box": [{"x1": 45.214996337890625, "y1": 95.21664428710938, "x2": 186.47036743164062, "y2": 271.6933288574219}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 2 fires, 35.5ms
+Speed: 0.5ms preprocess, 35.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.43111535906791604, 0.37237274646759005], "box": [{"x1": 49.94720458984375, "y1": 106.40478515625, "x2": 189.81228637695312, "y2": 267.71875}, {"x1": 374.64251708984375, "y1": 113.45565795898438, "x2": 473.82574462890625, "y2": 250.24755859375}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 2 fires, 37.9ms
+Speed: 0.5ms preprocess, 37.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.414433747529983, 0.390508204698562], "box": [{"x1": 52.20338439941406, "y1": 100.83502960205078, "x2": 251.0018768310547, "y2": 268.90887451171875}, {"x1": 374.76611328125, "y1": 118.38983154296875, "x2": 470.55657958984375, "y2": 255.40225219726562}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 fire, 33.9ms
+Speed: 0.5ms preprocess, 33.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.375697135925292], "box": [{"x1": 53.73584747314453, "y1": 95.622314453125, "x2": 269.53192138671875, "y2": 266.7109375}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 1 fire, 32.4ms
+Speed: 1.0ms preprocess, 32.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.498706489801406], "box": [{"x1": 370.996826171875, "y1": 95.36764526367188, "x2": 478.519287109375, "y2": 252.43780517578125}]}
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 1 fire, 37.5ms
+Speed: 0.5ms preprocess, 37.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.537721514701843], "box": [{"x1": 378.82574462890625, "y1": 99.62567138671875, "x2": 481.91436767578125, "y2": 243.02035522460938}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 fire, 32.8ms
+Speed: 0.5ms preprocess, 32.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.678255259990692], "box": [{"x1": 381.4649658203125, "y1": 104.70526123046875, "x2": 488.08441162109375, "y2": 238.68276977539062}]}
+Time to process 1 frame: 38 milliseconds
+
+0: 384x640 2 fires, 37.5ms
+Speed: 0.5ms preprocess, 37.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.39062947034835804, 0.31044489145278903], "box": [{"x1": 381.8526611328125, "y1": 90.15640258789062, "x2": 471.2506103515625, "y2": 234.59378051757812}, {"x1": 99.74259948730469, "y1": 9.399627685546875, "x2": 440.15960693359375, "y2": 253.29925537109375}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 1 fire, 33.6ms
+Speed: 0.5ms preprocess, 33.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.6034032106399531], "box": [{"x1": 386.1209411621094, "y1": 92.29824829101562, "x2": 473.5266418457031, "y2": 239.56207275390625}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 3 fires, 38.7ms
+Speed: 0.5ms preprocess, 38.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.33414125442504805, 0.32870906591415405, 0.26611396670341403], "box": [{"x1": 385.43597412109375, "y1": 89.94253540039062, "x2": 485.9122314453125, "y2": 239.47421264648438}, {"x1": 64.39463806152344, "y1": 140.34719848632812, "x2": 206.16880798339844, "y2": 249.22842407226562}, {"x1": 68.8516845703125, "y1": 116.52865600585938, "x2": 294.845703125, "y2": 253.26791381835938}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 1 fire, 37.1ms
+Speed: 0.5ms preprocess, 37.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.508405029773712], "box": [{"x1": 391.9082946777344, "y1": 116.04296875, "x2": 488.0274353027344, "y2": 255.44427490234375}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 fire, 33.0ms
+Speed: 0.5ms preprocess, 33.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.25907668471336304], "box": [{"x1": 393.89208984375, "y1": 116.45144653320312, "x2": 492.543701171875, "y2": 241.52191162109375}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 3 fires, 36.5ms
+Speed: 0.5ms preprocess, 36.5ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.335428237915039, 0.313853919506073, 0.255163878202438], "box": [{"x1": 396.1263427734375, "y1": 121.31484985351562, "x2": 493.95947265625, "y2": 236.56124877929688}, {"x1": 83.5224609375, "y1": 114.76278686523438, "x2": 298.6396789550781, "y2": 257.71990966796875}, {"x1": 76.3389663696289, "y1": 131.73345947265625, "x2": 211.23098754882812, "y2": 249.28268432617188}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 (no detections), 38.1ms
+Speed: 1.0ms preprocess, 38.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 37.1ms
+Speed: 1.1ms preprocess, 37.1ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.6678813099861141], "box": [{"x1": 401.19989013671875, "y1": 119.36831665039062, "x2": 494.81060791015625, "y2": 229.61807250976562}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 1 fire, 34.5ms
+Speed: 0.5ms preprocess, 34.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.49874904751777605], "box": [{"x1": 397.29888916015625, "y1": 100.37471771240234, "x2": 496.95208740234375, "y2": 232.07009887695312}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 2 fires, 38.0ms
+Speed: 0.5ms preprocess, 38.0ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.5383694171905511, 0.25006717443466103], "box": [{"x1": 401.55499267578125, "y1": 92.20885467529297, "x2": 498.49395751953125, "y2": 229.46099853515625}, {"x1": 121.24816131591797, "y1": 145.16458129882812, "x2": 288.5408935546875, "y2": 249.16116333007812}]}
+Time to process 1 frame: 44 milliseconds
+
+0: 384x640 2 fires, 39.5ms
+Speed: 0.5ms preprocess, 39.5ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.43270349502563404, 0.295652896165847], "box": [{"x1": 403.1160888671875, "y1": 119.76519775390625, "x2": 497.2020263671875, "y2": 228.50677490234375}, {"x1": 121.514404296875, "y1": 127.9566650390625, "x2": 289.2034912109375, "y2": 250.243896484375}]}
+Time to process 1 frame: 46 milliseconds
+
+0: 384x640 2 fires, 39.6ms
+Speed: 0.5ms preprocess, 39.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.44617420434951705, 0.43604212999343805], "box": [{"x1": 117.828369140625, "y1": 119.29788208007812, "x2": 285.6845397949219, "y2": 248.56198120117188}, {"x1": 397.2005615234375, "y1": 115.28852081298828, "x2": 502.734619140625, "y2": 227.5028076171875}]}
+Time to process 1 frame: 45 milliseconds
+
+0: 384x640 4 fires, 40.6ms
+Speed: 0.5ms preprocess, 40.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire", "fire"], "conf": [0.56091570854187, 0.49255716800689703, 0.43409356474876404, 0.329146862030029], "box": [{"x1": 417.2554626464844, "y1": 110.874267578125, "x2": 494.1596984863281, "y2": 165.3282470703125}, {"x1": 408.5579833984375, "y1": 111.41909790039062, "x2": 501.0421142578125, "y2": 222.57369995117188}, {"x1": 111.05654907226562, "y1": 132.5740966796875, "x2": 280.6435546875, "y2": 250.92999267578125}, {"x1": 113.91464233398438, "y1": 129.673583984375, "x2": 218.32904052734375, "y2": 233.877685546875}]}
+Time to process 1 frame: 46 milliseconds
+
+0: 384x640 3 fires, 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.6388861536979671, 0.576712429523468, 0.288561105728149], "box": [{"x1": 415.7177734375, "y1": 102.65028381347656, "x2": 492.283203125, "y2": 163.2771453857422}, {"x1": 115.91763305664062, "y1": 137.8536376953125, "x2": 282.17730712890625, "y2": 251.10308837890625}, {"x1": 105.84132385253906, "y1": 135.19775390625, "x2": 217.9988555908203, "y2": 233.84536743164062}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 3 fires, 36.4ms
+Speed: 1.0ms preprocess, 36.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.5788026452064511, 0.34300497174263, 0.260909855365753], "box": [{"x1": 414.80657958984375, "y1": 95.2939453125, "x2": 494.45831298828125, "y2": 162.93020629882812}, {"x1": 110.78292846679688, "y1": 138.4852294921875, "x2": 283.33294677734375, "y2": 249.79818725585938}, {"x1": 109.06390380859375, "y1": 137.35247802734375, "x2": 219.9964599609375, "y2": 234.875732421875}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 1 fire, 34.5ms
+Speed: 0.5ms preprocess, 34.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.5437437891960141], "box": [{"x1": 124.42526245117188, "y1": 139.19039916992188, "x2": 283.1082763671875, "y2": 247.40310668945312}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 2 fires, 35.9ms
+Speed: 0.5ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.5978125929832451, 0.49092140793800304], "box": [{"x1": 401.9818115234375, "y1": 85.71226501464844, "x2": 506.2353515625, "y2": 226.43040466308594}, {"x1": 116.45355224609375, "y1": 136.33831787109375, "x2": 286.3076477050781, "y2": 249.90176391601562}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 2 fires, 35.0ms
+Speed: 1.0ms preprocess, 35.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.6461911201477051, 0.29829439520835804], "box": [{"x1": 98.97919464111328, "y1": 126.90533447265625, "x2": 284.544677734375, "y2": 253.14071655273438}, {"x1": 400.2247314453125, "y1": 116.45040893554688, "x2": 511.034423828125, "y2": 228.2596435546875}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 2 fires, 34.4ms
+Speed: 0.5ms preprocess, 34.4ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.678641319274902, 0.320041835308074], "box": [{"x1": 100.02703857421875, "y1": 115.74996948242188, "x2": 290.76324462890625, "y2": 252.68435668945312}, {"x1": 402.77203369140625, "y1": 112.12336730957031, "x2": 513.4891967773438, "y2": 226.38429260253906}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 fire, 35.2ms
+Speed: 0.5ms preprocess, 35.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.6681197881698601], "box": [{"x1": 91.28955078125, "y1": 112.64202880859375, "x2": 306.8448791503906, "y2": 253.12335205078125}]}
+Time to process 1 frame: 40 milliseconds
+
+0: 384x640 1 fire, 33.6ms
+Speed: 0.5ms preprocess, 33.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.5945753455162041], "box": [{"x1": 81.3900375366211, "y1": 110.83602905273438, "x2": 303.3777160644531, "y2": 253.3492431640625}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 fire, 33.4ms
+Speed: 0.5ms preprocess, 33.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.794472217559814], "box": [{"x1": 82.95254516601562, "y1": 107.62476348876953, "x2": 300.04962158203125, "y2": 253.0380859375}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 1 fire, 31.9ms
+Speed: 1.0ms preprocess, 31.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.27383309602737405], "box": [{"x1": 123.15008544921875, "y1": 111.64874267578125, "x2": 299.1727600097656, "y2": 250.93020629882812}]}
+Time to process 1 frame: 37 milliseconds
+
+0: 384x640 (no detections), 36.6ms
+Speed: 0.5ms preprocess, 36.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 (no detections), 34.5ms
+Speed: 1.0ms preprocess, 34.5ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Time to process 1 frame: 36 milliseconds
+
+0: 384x640 1 fire, 34.0ms
+Speed: 1.0ms preprocess, 34.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire"], "conf": [0.690517663955688], "box": [{"x1": 85.26272583007812, "y1": 120.65798950195312, "x2": 290.3621520996094, "y2": 255.43881225585938}]}
+Time to process 1 frame: 39 milliseconds
+
+0: 384x640 3 fires, 36.5ms
+Speed: 0.5ms preprocess, 36.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.636931478977203, 0.383286297321319, 0.36773315072059604], "box": [{"x1": 87.51080322265625, "y1": 114.56914520263672, "x2": 297.326416015625, "y2": 256.33013916015625}, {"x1": 426.7167663574219, "y1": 112.32975769042969, "x2": 491.4173889160156, "y2": 165.89588928222656}, {"x1": 407.8231201171875, "y1": 112.18331146240234, "x2": 494.008544921875, "y2": 227.98312377929688}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 3 fires, 37.5ms
+Speed: 0.5ms preprocess, 37.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire", "fire"], "conf": [0.708249151706695, 0.35174983739852905, 0.29723858833312905], "box": [{"x1": 127.91936492919922, "y1": 116.56268310546875, "x2": 291.04547119140625, "y2": 257.1988220214844}, {"x1": 425.74725341796875, "y1": 108.83917236328125, "x2": 489.22198486328125, "y2": 161.95797729492188}, {"x1": 408.5965576171875, "y1": 109.07764434814453, "x2": 490.271240234375, "y2": 230.00286865234375}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 2 fires, 37.0ms
+Speed: 0.5ms preprocess, 37.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.6292315721511841, 0.516350746154785], "box": [{"x1": 409.0029296875, "y1": 104.06096649169922, "x2": 492.33795166015625, "y2": 227.0341796875}, {"x1": 110.70108795166016, "y1": 129.64511108398438, "x2": 291.7252502441406, "y2": 255.22686767578125}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 2 fires, 36.0ms
+Speed: 0.5ms preprocess, 36.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.7128443717956541, 0.36739176511764504], "box": [{"x1": 128.96844482421875, "y1": 133.6683349609375, "x2": 286.52691650390625, "y2": 253.04925537109375}, {"x1": 410.7803955078125, "y1": 96.10588836669922, "x2": 492.75909423828125, "y2": 223.7215576171875}]}
+Time to process 1 frame: 41 milliseconds
+
+0: 384x640 2 fires, 35.9ms
+Speed: 0.6ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.654448449611663, 0.6305822730064391], "box": [{"x1": 116.26272583007812, "y1": 135.97616577148438, "x2": 284.5330810546875, "y2": 252.37026977539062}, {"x1": 406.11602783203125, "y1": 92.0380859375, "x2": 496.26275634765625, "y2": 224.38229370117188}]}
+Time to process 1 frame: 42 milliseconds
+
+0: 384x640 2 fires, 37.0ms
+Speed: 1.0ms preprocess, 37.0ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.650006771087646, 0.573313534259796], "box": [{"x1": 408.48077392578125, "y1": 84.2998046875, "x2": 499.75958251953125, "y2": 219.13568115234375}, {"x1": 122.68634033203125, "y1": 127.63760375976562, "x2": 287.18927001953125, "y2": 249.15505981445312}]}
+Time to process 1 frame: 43 milliseconds
+
+0: 384x640 2 fires, 33.3ms
+Speed: 1.0ms preprocess, 33.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+{"label": ["fire", "fire"], "conf": [0.534593343734741, 0.250235706567764], "box": [{"x1": 123.12027740478516, "y1": 116.6153564453125, "x2": 287.3915710449219, "y2": 248.04010009765625}, {"x1": 316.4853515625, "y1": 14.048545837402344, "x2": 505.1595458984375, "y2": 226.28390502929688}]}
+Time to process 1 frame: 39 milliseconds
+Stop Cam!

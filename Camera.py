@@ -63,17 +63,25 @@ class Camera_Detection():
         if cv2.waitKey(1) & 0xff == ord(key):
             return True
     
+    def detection_check(self, detection):
+        if detection.boxes.cls.shape[0] != 0:
+            True
+        else:
+            False
+        
     def Start_Detection(self,):
-        while True:
+        while self.cap.isOpened():
             start = datetime.datetime.now()
             success, frame = self.cap.read()
             
             if success:
                 detection = self.model(frame)[0]
-                xmin, ymin, xmax, ymax, label, conf = self.data_extract(detection)
-                self.render(frame, xmin, ymin, xmax, ymax, label, conf)
-                json_data = self.create_json(xmin, ymin, xmax, ymax, label, conf)
-                print(json_data)
+                print(detection.boxes)
+                if self.detection_check(detection):
+                    xmin, ymin, xmax, ymax, label, conf = self.data_extract(detection)
+                    self.render(frame, xmin, ymin, xmax, ymax, label, conf)
+                    json_data = self.create_json(xmin, ymin, xmax, ymax, label, conf)
+                    print(json_data)
                 end = datetime.datetime.now()
                 self.cal_fps(frame, start, end)
                 # annotated_frame = results.render()[0]
@@ -91,8 +99,8 @@ class Camera_Detection():
         cv2.destroyAllWindows()
 
 if __name__ == "__main__":
-    WEIGHT_PATH = './runs/detect/train40/weights/best.pt'
-    VEDIO_PATH = 0
+    WEIGHT_PATH = './Thermal.pt'
+    VEDIO_PATH = 'Backdraft demo with TIC(열화상카메라로 본 백드래프트).mp4'
     CONFIDENCE_THRESHOLD = 0.6
     FRAME_WIDTH = 640
     FRAME_HEIGHT = 480
