@@ -1,10 +1,20 @@
 from pytube import YouTube
+import os
+class stream_YOUTUBE():
+    def __init__(self, url, filename):
+        self.url = url
+        self.youtube = YouTube(url)
+        self.video = self.youtube.streams.first()
+        self.filename = filename
 
-# YouTube 영상의 URL
-url = 'https://www.youtube.com/watch?v=f15-muqCGpc'  # 여기에 원하는 영상의 URL을 넣으세요
+    def download(self,):
+        if not os.path.exists(self.filename):
+            self.video.download(filename = self.filename)
 
-# YouTube 객체 생성
-youtube = YouTube(url)
+if __name__ == "__main__":
+    URL = "https://www.youtube.com/watch?v=i7ojA0j81OE" 
+    FILENAME = 'firevedio2.mp4'
+    
+    download = stream_YOUTUBE(url = URL, filename = FILENAME)
+    download.download()
 
-# 영상 다운로드
-youtube.streams.first().download()
