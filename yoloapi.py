@@ -10,18 +10,18 @@ import json
 # folder_path = './Fire_Smoke_Detection.v1i.yolov8/train/images'
 # Input_type_URL(source)
     
-def yaml_data_extract(yaml_data_path, sample_num):
-    with open(yaml_data_path, 'r') as yaml_file:
-        data = yaml.safe_load(yaml_file)
-    test_img_path = glob.glob(f'{data['test']}/*.jpg')
-    selected_img = random.sample(test_img_path, sample_num)
+# def yaml_data_extract(yaml_data_path, sample_num):
+#     with open(yaml_data_path, 'r') as yaml_file:
+#         data = yaml.safe_load(yaml_file)
+#     test_img_path = glob.glob(f'{data['test']}/*.jpg')
+#     selected_img = random.sample(test_img_path, sample_num)
 
-    return selected_img
+#     return selected_img
 
-def Input_type_yaml(input, model, sample_num, show = True, save = True):
-    source = yaml_data_extract(input,sample_num)
-    results = model.predict(source, show = show, save = save)
-    return results
+# def Input_type_yaml(input, model, sample_num, show = True, save = True):
+#     source = yaml_data_extract(input,sample_num)
+#     results = model.predict(source, show = show, save = save)
+#     return results
 
 def Input_type_URL(input, model, show = True, save = True):
     results = model.predict(input, model, show = show, save = save)
@@ -72,7 +72,9 @@ def create_json(name,conf,box):
     return json_data
          
 # if __name__ == "main":
-model = YOLO('./firesmoke.pt')
-img = 'gas1.png'
-results = Input_type_img(img, model)
-print(results)
+model = YOLO('./firesmoke3.pt')
+# img = './fire.v2i.yolov8/train/images'
+img = './firevedio5.mp4'
+# test_img_path = glob.glob(f'{img}/*.jpg')
+results = Input_type_URL(img, model)
+# print(results)

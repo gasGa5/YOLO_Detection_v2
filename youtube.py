@@ -12,8 +12,8 @@ class stream_YOUTUBE():
             self.video.download(filename = self.filename)
 
 if __name__ == "__main__":
-    URL = "https://www.youtube.com/watch?v=i7ojA0j81OE" 
-    FILENAME = 'firevedio2.mp4'
+    URL = "https://youtu.be/s1YxTMDZw3s?si=19dTZBrWocuusdnS" 
+    FILENAME = 'firevedio12.mp4'
     
     download = stream_YOUTUBE(url = URL, filename = FILENAME)
     download.download()

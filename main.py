@@ -4,7 +4,7 @@ from test_camera import Camera_Detection
 if __name__ == "__main__":
     URL = "https://www.youtube.com/shorts/UucWbiJaP-Q" 
     FILENAME = 'firevedio2.mp4'
-    WEIGHT_PATH = './firesmoke.pt'
+    WEIGHT_PATH = './firesmoke2.pt'
     VEDIO_PATH = FILENAME
     CONFIDENCE_THRESHOLD = 0.3
     FRAME_WIDTH = 160

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['2', 'Fire', 'fire']
+
+roboflow:
+  workspace: xl
+  project: fire-n8tre
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/xl/fire-n8tre/dataset/2
